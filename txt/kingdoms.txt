@@ -1,0 +1,35 @@
+None~
+#0<(#ygladiators#0)>~
+None~
+vinsfeld~
+40300
+1 0 1000005005
+85000 10000 3000 0
+None~
+(null)~
+None~
+zantiel~
+0
+0 0 0
+40000 3000 3000 0
+None~
+None~
+None~
+jackal~
+40500
+22 6 0
+1000 1000 1000 0
+None~
+None~
+None~
+(null)~
+0
+0 0 0
+0 0 0 0
+None~
+#n~
+None~
+none~
+40700
+30 17 0
+50000 25000 25000 10000

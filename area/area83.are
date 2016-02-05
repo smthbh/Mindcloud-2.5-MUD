@@ -1,0 +1,177 @@
+#AREADATA
+Name        Pizzaman   Quest Area~
+Builders    Pizzaman~
+Music       default.mid~
+VNUMs       70100 70199
+Cvnum       0
+Security    9
+Areabits    0
+End
+
+
+
+#MOBILES
+#70101
+Jobo~
+#BJobo#n~
+#BJobo is here giving out quests.#n
+~
+Jobo is a scrawny longhaird freak of a man. He was the maker of dystopia. Fear his might.
+~
+131075 0 -1000
+3000 0 0 0
+0 0
+0
+0
+#70102
+Vladd~
+#BVladd#n~
+#BVladd is here handing out quests.#n
+~
+~
+131075 0 0
+2997 0 0 0
+0 0
+0
+0
+#70103
+Tarasque~
+#BTarasque#n~
+#BTarasque is here handing out quests.#n
+~
+~
+131075 0 0
+3001 0 0 0
+0 0
+0
+0
+#70104
+Dracknuur~
+#BDracknuur#n~
+#BDracknuur is here giving out quests.#n
+~
+~
+131075 0 -1000
+3002 0 0 0
+0 0
+0
+0
+#70105
+Katja~
+#BKatja#n~
+#BKatja is here giving out quests.#n
+~
+~
+131075 0 0
+3000 0 0 0
+2 0
+0
+0
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#70100
+#BQuest Area#n~
+~
+0 0
+D0
+~
+~
+0 0 70101
+D1
+~
+~
+0 0 70102
+D2
+~
+~
+0 0 70104
+D3
+~
+~
+0 0 70103
+D5
+~
+~
+0 0 70105
+S
+#70101
+#BQuest Room 1#n~
+~
+0 0
+D2
+~
+~
+0 0 70100
+S
+#70102
+#BQuest Room 3#n~
+~
+0 0
+D3
+~
+~
+0 0 70100
+S
+#70103
+#BQuest Room 4#n~
+~
+0 0
+D1
+~
+~
+0 0 70100
+S
+#70104
+#BQuest Room 2#n~
+~
+0 0
+D0
+~
+~
+0 0 70100
+S
+#70105
+#BQuest Room 5#n~
+~
+0 0
+D4
+~
+~
+0 0 70100
+S
+#0
+
+
+
+#MOBPROGS
+#0
+
+#SPECIALS
+Q 70101 questspec_hard_mob
+Q 70102 questspec_special_item
+Q 70103 questspec_mob_and_item
+Q 70104 questspec_mass_kill
+Q 70105 questspec_pk
+S
+
+
+
+#RESETS
+M 0 70101 1 70101
+M 0 70102 1 70102
+M 0 70103 1 70103
+M 0 70104 1 70104
+M 0 70105 1 70105
+S
+
+
+
+#$

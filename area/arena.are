@@ -1,0 +1,41 @@
+#AREADATA
+Name        Dunkirk The Arena~
+Builders    None~
+Music       default.mid~
+VNUMs       50 70
+Cvnum       0
+Security    3
+Areabits    0
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#0
+
+
+
+#MOBPROGS
+#0
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#$

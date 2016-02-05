@@ -1,0 +1,105 @@
+Thu Jan 28 12:28:02 2016 :: IMC: Loading IMC2 command table...
+Thu Jan 28 12:28:02 2016 :: IMC: Loading IMC2 network data...
+Thu Jan 28 12:28:02 2016 :: IMC: Loading IMC2 help file...
+Thu Jan 28 12:28:02 2016 :: IMC: Loading IMC2 color table...
+Thu Jan 28 12:28:02 2016 :: IMC: Loading IMC2 who template...
+Thu Jan 28 12:28:02 2016 :: IMC: imcfread_word: EOF encountered on read.
+Thu Jan 28 12:28:02 2016 :: IMC: IMC2 network data loaded. Autoconnect not set. IMC2 will need to be connected manually.
+Thu Jan 28 12:28:02 2016 :: Init data space.
+Thu Jan 28 12:28:02 2016 :: Setting time and weather.
+Thu Jan 28 12:28:02 2016 :: Assigning GSN's.
+Thu Jan 28 12:28:02 2016 :: Reading Area List.
+Thu Jan 28 12:28:02 2016 :: loading help.are
+Thu Jan 28 12:28:02 2016 :: loading kavir.are
+Thu Jan 28 12:28:02 2016 :: loading limbo.are
+Thu Jan 28 12:28:02 2016 :: loading smurf.are
+Thu Jan 28 12:28:02 2016 :: loading fortress.are
+Thu Jan 28 12:28:02 2016 :: loading plains.are
+Thu Jan 28 12:28:02 2016 :: loading ofcol2.are
+Thu Jan 28 12:28:02 2016 :: loading forest.are
+Thu Jan 28 12:28:02 2016 :: loading olympus.are
+Thu Jan 28 12:28:02 2016 :: loading air.are
+Thu Jan 28 12:28:02 2016 :: loading shire.are
+Thu Jan 28 12:28:02 2016 :: loading hitower.are
+Thu Jan 28 12:28:02 2016 :: loading gnome.are
+Thu Jan 28 12:28:02 2016 :: loading wyvern.are
+Thu Jan 28 12:28:02 2016 :: loading catacomb.are
+Thu Jan 28 12:28:02 2016 :: loading hood.are
+Thu Jan 28 12:28:02 2016 :: loading draconia.are
+Thu Jan 28 12:28:02 2016 :: loading mahntor.are
+Thu Jan 28 12:28:02 2016 :: loading ultima.are
+Thu Jan 28 12:28:02 2016 :: loading trollden.are
+Thu Jan 28 12:28:02 2016 :: loading firenewt.are
+Thu Jan 28 12:28:02 2016 :: loading midgaard.are
+Thu Jan 28 12:28:02 2016 :: loading chapel.are
+Thu Jan 28 12:28:02 2016 :: loading midennir.are
+Thu Jan 28 12:28:02 2016 :: loading grave.are
+Thu Jan 28 12:28:02 2016 :: loading school.are
+Thu Jan 28 12:28:02 2016 :: loading moria.are
+Thu Jan 28 12:28:02 2016 :: loading juargan.are
+Thu Jan 28 12:28:02 2016 :: loading eastern.are
+Thu Jan 28 12:28:02 2016 :: loading drow.are
+Thu Jan 28 12:28:02 2016 :: loading thalos.are
+Thu Jan 28 12:28:02 2016 :: loading mirror.are
+Thu Jan 28 12:28:02 2016 :: loading ofcol.are
+Thu Jan 28 12:28:02 2016 :: loading arachnos.are
+Thu Jan 28 12:28:02 2016 :: loading daycare.are
+Thu Jan 28 12:28:02 2016 :: loading sewer.are
+Thu Jan 28 12:28:02 2016 :: loading astral.are
+Thu Jan 28 12:28:02 2016 :: loading valley.are
+Thu Jan 28 12:28:02 2016 :: loading mega1.are
+Thu Jan 28 12:28:02 2016 :: loading atlantis.are
+Thu Jan 28 12:28:02 2016 :: loading dream.are
+Thu Jan 28 12:28:02 2016 :: loading marsh.are
+Thu Jan 28 12:28:02 2016 :: loading dylan.are
+Thu Jan 28 12:28:02 2016 :: loading canyon.are
+Thu Jan 28 12:28:02 2016 :: loading galaxy.are
+Thu Jan 28 12:28:02 2016 :: loading mobfact.are
+Thu Jan 28 12:28:02 2016 :: loading doom.are
+Thu Jan 28 12:28:02 2016 :: loading eoeasy.are
+Thu Jan 28 12:28:02 2016 :: loading dragon2.are
+Thu Jan 28 12:28:02 2016 :: loading dragonheart.are
+Thu Jan 28 12:28:02 2016 :: loading sunyata.are
+Thu Jan 28 12:28:02 2016 :: loading eohard.are
+Thu Jan 28 12:28:02 2016 :: loading start.are
+Thu Jan 28 12:28:02 2016 :: loading quest.are
+Thu Jan 28 12:28:02 2016 :: loading Vallanda.are
+Thu Jan 28 12:28:02 2016 :: loading weed.are
+Thu Jan 28 12:28:02 2016 :: loading hell.are
+Thu Jan 28 12:28:02 2016 :: loading heaven.are
+Thu Jan 28 12:28:02 2016 :: loading dystopia.are
+Thu Jan 28 12:28:02 2016 :: loading dawnjobo.are
+Thu Jan 28 12:28:02 2016 :: loading classeq.are
+Thu Jan 28 12:28:02 2016 :: loading domeship.are
+Thu Jan 28 12:28:02 2016 :: loading disney.are
+Thu Jan 28 12:28:02 2016 :: loading classhq.are
+Thu Jan 28 12:28:02 2016 :: loading willaz1.are
+Thu Jan 28 12:28:02 2016 :: loading workshop.are
+Thu Jan 28 12:28:02 2016 :: loading jatr1.are
+Thu Jan 28 12:28:02 2016 :: loading zarius.are
+Thu Jan 28 12:28:02 2016 :: loading kingone.are
+Thu Jan 28 12:28:02 2016 :: loading area77.are
+Thu Jan 28 12:28:02 2016 :: loading area78.are
+Thu Jan 28 12:28:02 2016 :: loading area79.are
+Thu Jan 28 12:28:02 2016 :: loading area80.are
+Thu Jan 28 12:28:02 2016 :: loading area82.are
+Thu Jan 28 12:28:02 2016 :: loading area83.are
+Thu Jan 28 12:28:02 2016 :: loading area84.are
+Thu Jan 28 12:28:02 2016 :: loading mobprogs.are
+Thu Jan 28 12:28:02 2016 :: Fixing exits.
+Thu Jan 28 12:28:02 2016 :: Loading Hints.
+Thu Jan 28 12:28:02 2016 :: Loading Bans
+Thu Jan 28 12:28:02 2016 :: Loading Leaderboard
+Thu Jan 28 12:28:02 2016 :: Loading Kingdoms
+Thu Jan 28 12:28:02 2016 :: Loading Religions
+Thu Jan 28 12:28:02 2016 :: Loading Wars
+Thu Jan 28 12:28:02 2016 :: Loading Boards
+Thu Jan 28 12:28:02 2016 :: Loading Notes
+Thu Jan 28 12:28:02 2016 :: Loading Disabled
+Thu Jan 28 12:28:02 2016 :: Loading Mudinfo
+Thu Jan 28 12:28:02 2016 :: Loading CCenter
+Thu Jan 28 12:28:02 2016 :: Loading Projects
+Thu Jan 28 12:28:02 2016 :: Loading Coreinfo
+Thu Jan 28 12:28:02 2016 :: Loading Changes
+Thu Jan 28 12:28:02 2016 :: Loading Wizlist.
+Thu Jan 28 12:28:02 2016 :: Bug: [*****] BUG: Fread_word: word 'ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ' too long.

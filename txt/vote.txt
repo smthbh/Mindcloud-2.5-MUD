@@ -1,0 +1,7 @@
+vote
+Would you care if I removed gen titles and just put class name?~ 60 40 5
+vote
+Does anyone care about the generation titles?~ 85 14 7
+
+end
+

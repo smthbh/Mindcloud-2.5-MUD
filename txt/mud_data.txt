@@ -1,0 +1,306 @@
+
+Mudinfo Database Entry
+Average Online Users       0
+Peak Users Online          2
+Mccp Ratio                 20 %
+MSP Ratio                  18 %
+Amount of MB send          4 MB
+Datatransfer Average       0.0
+Datatransfer Peak          1.5
+
+Mudinfo Database Entry
+Average Online Users       2
+Peak Users Online          8
+Mccp Ratio                 21 %
+MSP Ratio                  0 %
+Amount of MB send          602 MB
+Datatransfer Average       1.0
+Datatransfer Peak          8.4
+
+Mudinfo Database Entry
+Average Online Users       2
+Peak Users Online          10
+Mccp Ratio                 43 %
+MSP Ratio                  0 %
+Amount of MB send          453 MB
+Datatransfer Average       0.7
+Datatransfer Peak          7.9
+
+Mudinfo Database Entry
+Average Online Users       0
+Peak Users Online          5
+Mccp Ratio                 32 %
+MSP Ratio                  0 %
+Amount of MB send          124 MB
+Datatransfer Average       0.2
+Datatransfer Peak          6.3
+
+Mudinfo Database Entry
+Average Online Users       0
+Peak Users Online          6
+Mccp Ratio                 20 %
+MSP Ratio                  0 %
+Amount of MB send          66 MB
+Datatransfer Average       0.1
+Datatransfer Peak          3.3
+
+Mudinfo Database Entry
+Average Online Users       1
+Peak Users Online          7
+Mccp Ratio                 38 %
+MSP Ratio                  0 %
+Amount of MB send          199 MB
+Datatransfer Average       0.3
+Datatransfer Peak          4.7
+
+Mudinfo Database Entry
+Average Online Users       2
+Peak Users Online          10
+Mccp Ratio                 34 %
+MSP Ratio                  0 %
+Amount of MB send          389 MB
+Datatransfer Average       0.6
+Datatransfer Peak          8.9
+
+Mudinfo Database Entry
+Average Online Users       4
+Peak Users Online          13
+Mccp Ratio                 31 %
+MSP Ratio                  0 %
+Amount of MB send          749 MB
+Datatransfer Average       1.2
+Datatransfer Peak          8.0
+
+Mudinfo Database Entry
+Average Online Users       5
+Peak Users Online          16
+Mccp Ratio                 32 %
+MSP Ratio                  0 %
+Amount of MB send          919 MB
+Datatransfer Average       1.5
+Datatransfer Peak          9.7
+
+Mudinfo Database Entry
+Average Online Users       3
+Peak Users Online          13
+Mccp Ratio                 53 %
+MSP Ratio                  0 %
+Amount of MB send          484 MB
+Datatransfer Average       0.8
+Datatransfer Peak          8.0
+
+Mudinfo Database Entry
+Average Online Users       4
+Peak Users Online          14
+Mccp Ratio                 48 %
+MSP Ratio                  0 %
+Amount of MB send          891 MB
+Datatransfer Average       1.5
+Datatransfer Peak          10.8
+
+Mudinfo Database Entry
+Average Online Users       2
+Peak Users Online          9
+Mccp Ratio                 32 %
+MSP Ratio                  0 %
+Amount of MB send          515 MB
+Datatransfer Average       0.8
+Datatransfer Peak          12.2
+
+Mudinfo Database Entry
+Average Online Users       2
+Peak Users Online          11
+Mccp Ratio                 41 %
+MSP Ratio                  0 %
+Amount of MB send          408 MB
+Datatransfer Average       0.6
+Datatransfer Peak          9.9
+
+Mudinfo Database Entry
+Average Online Users       0
+Peak Users Online          6
+Mccp Ratio                 39 %
+MSP Ratio                  0 %
+Amount of MB send          113 MB
+Datatransfer Average       0.1
+Datatransfer Peak          8.1
+
+Mudinfo Database Entry
+Average Online Users       0
+Peak Users Online          5
+Mccp Ratio                 55 %
+MSP Ratio                  0 %
+Amount of MB send          32 MB
+Datatransfer Average       0.0
+Datatransfer Peak          2.5
+
+Mudinfo Database Entry
+Average Online Users       0
+Peak Users Online          3
+Mccp Ratio                 8 %
+MSP Ratio                  0 %
+Amount of MB send          72 MB
+Datatransfer Average       0.1
+Datatransfer Peak          3.3
+
+Mudinfo Database Entry
+Average Online Users       0
+Peak Users Online          5
+Mccp Ratio                 35 %
+MSP Ratio                  0 %
+Amount of MB send          48 MB
+Datatransfer Average       0.0
+Datatransfer Peak          6.0
+
+Mudinfo Database Entry
+Average Online Users       0
+Peak Users Online          3
+Mccp Ratio                 40 %
+MSP Ratio                  0 %
+Amount of MB send          18 MB
+Datatransfer Average       0.0
+Datatransfer Peak          1.7
+
+Mudinfo Database Entry
+Average Online Users       0
+Peak Users Online          5
+Mccp Ratio                 48 %
+MSP Ratio                  0 %
+Amount of MB send          85 MB
+Datatransfer Average       0.1
+Datatransfer Peak          5.5
+
+Mudinfo Database Entry
+Average Online Users       0
+Peak Users Online          5
+Mccp Ratio                 27 %
+MSP Ratio                  0 %
+Amount of MB send          104 MB
+Datatransfer Average       0.1
+Datatransfer Peak          3.8
+
+Mudinfo Database Entry
+Average Online Users       0
+Peak Users Online          5
+Mccp Ratio                 10 %
+MSP Ratio                  0 %
+Amount of MB send          132 MB
+Datatransfer Average       0.2
+Datatransfer Peak          5.8
+
+Mudinfo Database Entry
+Average Online Users       0
+Peak Users Online          6
+Mccp Ratio                 16 %
+MSP Ratio                  0 %
+Amount of MB send          76 MB
+Datatransfer Average       0.1
+Datatransfer Peak          3.6
+
+Mudinfo Database Entry
+Average Online Users       0
+Peak Users Online          2
+Mccp Ratio                 25 %
+MSP Ratio                  0 %
+Amount of MB send          11 MB
+Datatransfer Average       0.0
+Datatransfer Peak          2.0
+
+Mudinfo Database Entry
+Average Online Users       0
+Peak Users Online          2
+Mccp Ratio                 19 %
+MSP Ratio                  0 %
+Amount of MB send          9 MB
+Datatransfer Average       0.0
+Datatransfer Peak          2.2
+
+Mudinfo Database Entry
+Average Online Users       0
+Peak Users Online          9
+Mccp Ratio                 32 %
+MSP Ratio                  0 %
+Amount of MB send          98 MB
+Datatransfer Average       0.1
+Datatransfer Peak          4.0
+
+Mudinfo Database Entry
+Average Online Users       1
+Peak Users Online          6
+Mccp Ratio                 21 %
+MSP Ratio                  0 %
+Amount of MB send          274 MB
+Datatransfer Average       0.4
+Datatransfer Peak          6.3
+
+Mudinfo Database Entry
+Average Online Users       0
+Peak Users Online          6
+Mccp Ratio                 50 %
+MSP Ratio                  0 %
+Amount of MB send          100 MB
+Datatransfer Average       0.1
+Datatransfer Peak          5.8
+
+Mudinfo Database Entry
+Average Online Users       0
+Peak Users Online          3
+Mccp Ratio                 11 %
+MSP Ratio                  0 %
+Amount of MB send          20 MB
+Datatransfer Average       0.0
+Datatransfer Peak          3.2
+
+Mudinfo Database Entry
+Average Online Users       1
+Peak Users Online          11
+Mccp Ratio                 50 %
+MSP Ratio                  0 %
+Amount of MB send          189 MB
+Datatransfer Average       0.3
+Datatransfer Peak          8.4
+
+Mudinfo Database Entry
+Average Online Users       2
+Peak Users Online          12
+Mccp Ratio                 50 %
+MSP Ratio                  0 %
+Amount of MB send          468 MB
+Datatransfer Average       0.7
+Datatransfer Peak          6.7
+
+Mudinfo Database Entry
+Average Online Users       2
+Peak Users Online          12
+Mccp Ratio                 58 %
+MSP Ratio                  0 %
+Amount of MB send          379 MB
+Datatransfer Average       0.6
+Datatransfer Peak          13.2
+
+Mudinfo Database Entry
+Average Online Users       2
+Peak Users Online          9
+Mccp Ratio                 52 %
+MSP Ratio                  0 %
+Amount of MB send          361 MB
+Datatransfer Average       0.6
+Datatransfer Peak          8.6
+
+Mudinfo Database Entry
+Average Online Users       3
+Peak Users Online          9
+Mccp Ratio                 56 %
+MSP Ratio                  0 %
+Amount of MB send          488 MB
+Datatransfer Average       0.8
+Datatransfer Peak          10.3
+
+Mudinfo Database Entry
+Average Online Users       1
+Peak Users Online          8
+Mccp Ratio                 28 %
+MSP Ratio                  0 %
+Amount of MB send          442 MB
+Datatransfer Average       0.7
+Datatransfer Peak          14.3

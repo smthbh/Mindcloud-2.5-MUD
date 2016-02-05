@@ -1,0 +1,46 @@
+#AREADATA
+Name        Artemis Kingdom Four~
+Builders    Artemis Pizzaman Moraugh~
+Music       default.mid~
+VNUMs       40600 40699
+Cvnum       0
+Security    1
+Areabits    0
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#40600
+Kingdom 4 room 1~
+~
+4 0
+S
+#0
+
+
+
+#MOBPROGS
+#0
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#$

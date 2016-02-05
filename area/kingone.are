@@ -1,0 +1,176 @@
+#AREADATA
+Name        Artemis Kingdom One~
+Builders    Artemis Pizzaman Moraugh~
+Music       default.mid~
+VNUMs       40300 40399
+Cvnum       0
+Security    9
+Areabits    0
+End
+
+
+
+#MOBILES
+#40300
+Guardian Slut Warlord~
+#RR#ro#wyal #RS#rl#wut#n~
+The #RR#ro#wyal #RS#rl#wut#n of the castle stands here.
+~
+~
+98321 0 0
+3001 75 20 3
+2 0
+0
+0
+#0
+
+
+
+#OBJECTS
+#40300
+Throne of Fallen~
+throne of #0x#r*#0x#rf#ya#rl#yl#re#yn#0x#r*#0x#n~
+The Almighty Throne of #0x#r*#0x#rf#ya#rl#yl#re#yn#0x#r*#0x#n stands in its glory here.~
+12 131328 0 0
+0 0 0
+0 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40398
+moraugh's bag of tricks unique~
+#gMoraugh's #rBag #nof #bTricks#n~
+#gMoraugh's #rBag #nof #bTricks#n floats here~
+15 16387 0 524289
+0 0 0
+99999999 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40399
+Moraugh Token~
+#sMoraugh's Token#n~
+Moraugh's Token lies here.~
+37 16512 0 1
+0 0 0
+0 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#40300
+Entrance to #0<(#yGladiators#0)>#n~
+~
+1048576 0
+D0
+~
+~
+0 0 40303
+D1
+~
+~
+0 0 40301
+D2
+~
+~
+0 0 40305
+D3
+~
+~
+0 0 40304
+D5
+~
+~
+0 0 40302
+S
+#40301
+The bank of #0<(#yGladiators#0)>#n~
+~
+1052672 0
+D3
+~
+~
+0 0 40300
+S
+#40302
+#BThe Gateway to Real Life~
+~
+1048576 0
+D4
+~
+~
+0 0 40300
+D5
+~
+~
+0 0 3001
+S
+#40303
+#BThe Battlements of #0x#r*#0x#rf#ya#rl#yl#re#yn#0x#r*#0x#n~
+~
+8192 0
+D2
+~
+~
+0 0 40300
+S
+#40304
+Practice Hall of #0x#r*#0x#rf#ya#rl#yl#re#yn#0x#r*#0x#n~
+~
+1048576 0
+D1
+~
+~
+0 0 40300
+S
+#40305
+#BMess Hall of #0x#r*#0x#rf#ya#rl#yl#re#yn#0x#r*#0x#n~
+~
+1048576 0
+D0
+~
+~
+0 0 40300
+S
+#0
+
+
+
+#MOBPROGS
+#0
+
+#SPECIALS
+M 40300 spec_guard_one
+S
+
+
+
+#RESETS
+M 0 40300 1 40300
+S
+
+
+
+#$

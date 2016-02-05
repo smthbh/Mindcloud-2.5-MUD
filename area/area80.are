@@ -1,0 +1,641 @@
+#AREADATA
+Name        Artemis Kingdom Five~
+Builders    Artemis Pizzaman Moraugh~
+Music       default.mid~
+VNUMs       40700 40799
+Cvnum       0
+Security    1
+Areabits    0
+End
+
+
+
+#MOBILES
+#40700
+eternal warriors guardian~
+#7[#8<#3#R*#8>#7]#7Eternal#l_#8Warriors#7[#8<#3#R*#8>#7]#n Guardian~
+#7[#8<#3#R*#8>#7]#7Eternal#l_#8Warriors#7[#8<#3#R*#8>#7]#n Guardian stands here, looking for intruders.
+~
+~
+100369 168 0
+3001 50 20 3
+0 0
+0
+0
+#40701
+eternal warriors guardian~
+#7[#8<#3#R*#8>#7]#7Eternal#l_#8Warriors#7[#8<#3#R*#8>#7]#n Guardian~
+#7[#8<#3#R*#8>#7]#7Eternal#l_#8Warriors#7[#8<#3#R*#8>#7]#n Guardian stands here, looking for intruders.
+~
+~
+100369 168 0
+202 50 20 3
+0 0
+0
+0
+#0
+
+
+
+#OBJECTS
+#40700
+statue errtu~
+a Statue of Errtu~
+A Statue of Errtu stands here, showing his #7[#8<#3#R*#8>#7]#7Eternal #8Warriors#7[#8<#3#R*#8>#7]#n pride.~
+15 131331 0 0
+0 0 0
+2147483647 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40701
+Statue of Abandon~
+a Statue of Abandon~
+A Statue of Abandon stands here, showing his #7[#8<#3#R*#8>#7]#7Eternal #8Warriors#7[#8<#3#R*#8>#7]#n pride.~
+15 131331 0 0
+0 0 0
+2147483647 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40703
+statue moraugh~
+a Statue of Moraugh~
+A Statue of Moraugh is here, holding the symbol of #7[#8<#3#R*#8>#7]#7Eternal #8Warriors#7[#8<#3#R*#8>#7]#n.~
+15 131331 0 0
+0 0 0
+2147483647 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40798
+Moraugh token ultimate~
+#sMoraugh's #sUltimate #sToken#n~
+#sMoraugh's #sUltimate #sToken#n lies here.~
+37 20480 0 1
+0 0 0
+0 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40799
+worldly controller~
+#rA #BW#wo#gr#rl#gd#wl#By#n #WCon#wt#0ro#wl#Wler#n~
+#rA #BW#wo#gr#rl#gd#wl#By#n #WCon#wt#0ro#wl#Wler#n stands here causing chaos around the world.~
+12 131328 0 0
+0 0 0
+0 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#40700
+#7[#8<#3#R*#8>#7]#7Eternal#l_#8Warriors#7[#8<#3#R*#8>#7]#n Home~
+~
+4 0
+D0
+~
+~
+0 0 40701
+D1
+~
+~
+0 0 40709
+D2
+~
+~
+0 0 40713
+D3
+~
+~
+0 0 40704
+D4
+~
+~
+0 0 30304
+D5
+~
+~
+0 0 40717
+S
+#40701
+#7[#8<#3#R*#8>#7]#7Eternal#l_#8Warriors#7[#8<#3#R*#8>#7]#n~
+~
+0 0
+D0
+~
+~
+0 0 40702
+D2
+~
+~
+0 0 40700
+S
+#40702
+#7[#8<#3#R*#8>#7]#7Eternal#l_#8Warriors#7[#8<#3#R*#8>#7]#n~
+~
+0 0
+D0
+~
+~
+0 0 40703
+D2
+~
+~
+0 0 40701
+S
+#40703
+#7[#8<#3#R*#8>#7]#7Eternal#l_#8Warriors#7[#8<#3#R*#8>#7]#n Bank~
+~
+5120 0
+D2
+~
+~
+0 0 40702
+S
+#40704
+#7[#8<#3#R*#8>#7]#7Eternal#l_#8Warriors#7[#8<#3#R*#8>#7]#n~
+~
+0 0
+D1
+~
+~
+0 0 40700
+D3
+~
+~
+0 0 40705
+S
+#40705
+#7[#8<#3#R*#8>#7]#7Eternal#l_#8Warriors#7[#8<#3#R*#8>#7]#n~
+~
+0 0
+D1
+~
+~
+0 0 40704
+D3
+~
+~
+0 0 40706
+S
+#40706
+#7[#8<#3#R*#8>#7]#7Eternal#l_#8Warriors#7[#8<#3#R*#8>#7]#n~
+~
+0 0
+D0
+~
+~
+0 0 40707
+D1
+~
+~
+0 0 40705
+S
+#40707
+#7[#8<#3#R*#8>#7]#7Eternal#l_#8Warriors#7[#8<#3#R*#8>#7]#n~
+~
+0 0
+D0
+~
+~
+0 0 40708
+D2
+~
+~
+0 0 40706
+S
+#40708
+#7[#8<#3#R*#8>#7]#7Eternal#l_#8Warriors#7[#8<#3#R*#8>#7]#n~
+~
+0 0
+D2
+~
+~
+0 0 40707
+S
+#40709
+#7[#8<#3#R*#8>#7]#7Eternal#l_#8Warriors#7[#8<#3#R*#8>#7]#n~
+~
+0 0
+D1
+~
+~
+0 0 40710
+D3
+~
+~
+0 0 40700
+S
+#40710
+#7[#8<#3#R*#8>#7]#7Eternal#l_#8Warriors#7[#8<#3#R*#8>#7]#n~
+~
+0 0
+D1
+~
+~
+0 0 40711
+D3
+~
+~
+0 0 40709
+S
+#40711
+#7[#8<#3#R*#8>#7]#7Eternal#l_#8Warriors#7[#8<#3#R*#8>#7]#n~
+~
+0 0
+D3
+~
+~
+0 0 40710
+D5
+~
+~
+0 0 40712
+S
+#40712
+#7[#8<#3#R*#8>#7]#7Eternal#l_#8Warriors#7[#8<#3#R*#8>#7]#n Safe Room~
+~
+1024 0
+D4
+~
+~
+0 0 40711
+S
+#40713
+#7[#8<#3#R*#8>#7]#7Eternal#l_#8Warriors#7[#8<#3#R*#8>#7]#n~
+~
+0 0
+D0
+~
+~
+0 0 40700
+D2
+~
+~
+0 0 40714
+S
+#40714
+#7[#8<#3#R*#8>#7]#7Eternal#l_#8Warriors#7[#8<#3#R*#8>#7]#n~
+~
+0 0
+D0
+~
+~
+0 0 40713
+D2
+~
+~
+0 0 40715
+S
+#40715
+#7[#8<#3#R*#8>#7]#7Eternal#l_#8Warriors#7[#8<#3#R*#8>#7]#n~
+~
+0 0
+D0
+~
+~
+0 0 40714
+D4
+~
+~
+0 0 40716
+S
+#40716
+#7[#8<#3#R*#8>#7]#7Eternal#l_#8Warriors#7[#8<#3#R*#8>#7]#n~
+~
+0 0
+D5
+~
+~
+0 0 40715
+S
+#40717
+Hallway of the #7[#8<#3#R*#8>#7]#7Eternal #8Warriors#7[#8<#3#R*#8>#7]#n~
+~
+0 0
+D0
+~
+~
+0 0 40718
+D1
+~
+~
+0 0 40720
+D2
+~
+~
+0 0 40721
+D3
+~
+~
+0 0 40719
+D4
+~
+~
+0 0 40700
+D5
+~
+~
+0 0 40722
+S
+#40718
+Regal's Room with Padded Walls #7[#8<#3#R*#8>#7]#7Eternal #8Warriors#7[#8<#3#R*#8>#7]#n~
+~
+0 0
+T
+padded~
+$n is sourrounded by a blinding light as he is #Rvaporized#n.~
+You are sourrounded by a blinding light and are #Rvaporized#n.~
+all~
+16384 40729 0
+D2
+~
+~
+0 0 40717
+S
+#40719
+Abandon's Torture Chamber of #7[#8<#3#R*#8>#7]#7Eternal #8Warriors#7[#8<#3#R*#8>#7]#n~
+~
+0 0
+T
+poontang~
+$n is sourrounded by a blinding light as he is #Rvaporized#n.~
+You are sourrounded by a blinding light and are #Rvaporized#n.~
+all~
+16384 40729 0
+T
+trix~
+~
+~
+all~
+4096 158 0
+T
+death~
+~
+~
+all~
+4096 158 0
+D1
+~
+~
+0 0 40717
+S
+#40720
+Overlooking the Abyss of the #7[#8<#3#R*#8>#7]#7Eternal #8Warriors#7[#8<#3#R*#8>#7]#n~
+~
+0 0
+D3
+~
+~
+0 0 40717
+S
+#40721
+Halls of the Damned #7[#8<#3#R*#8>#7]#7Eternal #8Warriors#7[#8<#3#R*#8>#7]#n~
+~
+0 0
+D0
+~
+~
+0 0 40717
+S
+#40722
+Hallway of the #7[#8<#3#R*#8>#7]#7Eternal #8Warriors#7[#8<#3#R*#8>#7]#n~
+~
+0 0
+D0
+~
+~
+0 0 40728
+D1
+~
+~
+0 0 40731
+D2
+~
+~
+0 0 40727
+D3
+~
+~
+0 0 40730
+D4
+~
+~
+0 0 40717
+D5
+~
+~
+0 0 40723
+S
+#40723
+Hallway of the #7[#8<#3#R*#8>#7]#7Eternal #8Warriors#7[#8<#3#R*#8>#7]#n~
+~
+0 0
+D1
+~
+~
+0 0 40733
+D2
+~
+~
+0 0 40732
+D4
+~
+~
+0 0 40722
+D5
+~
+~
+0 0 40724
+S
+#40724
+Hallway of the #7[#8<#3#R*#8>#7]#7Eternal #8Warriors#7[#8<#3#R*#8>#7]#n~
+~
+0 0
+D4
+~
+~
+0 0 40723
+D5
+~
+~
+0 0 40725
+S
+#40725
+Hallway of the #7[#8<#3#R*#8>#7]#7Eternal #8Warriors#7[#8<#3#R*#8>#7]#n~
+~
+0 0
+D4
+~
+~
+0 0 40724
+D5
+~
+~
+0 0 40726
+S
+#40726
+Throne Room of the #7[#8<#3#R*#8>#7]#7Eternal #8Warriors#7[#8<#3#R*#8>#7]#n~
+~
+0 0
+D4
+~
+~
+0 0 40725
+S
+#40727
+Moraugh's Bedroom of #7[#8<#3#R*#8>#7]#7Eternal #8Warriors#7[#8<#3#R*#8>#7]#n~
+~
+0 0
+D0
+~
+~
+0 0 40722
+S
+#40728
+Where Victory Sleeps in the #7[#8<#3#R*#8>#7]#7Eternal #8Warriors#7[#8<#3#R*#8>#7]#n~
+~
+0 0
+D2
+~
+~
+0 0 40722
+S
+#40729
+Hall of the Blind #7[#8<#3#R*#8>#7]#7Eternal #8Warriors#7[#8<#3#R*#8>#7]#n~
+~
+1048580 0
+T
+c6~
+$n vanishes.~
+You are transported somewhere else.~
+all~
+16384 70223 0
+T
+death~
+~
+~
+all~
+4096 158 0
+T
+trix~
+~
+~
+all~
+4096 158 0
+T
+exit~
+$n returns to the Torture Chamber.~
+You return to the Torture Chamber.~
+all~
+16384 40719 0
+S
+#40730
+Raziel's Room of #7[#8<#3#R*#8>#7]#7Eternal #8Warriors#7[#8<#3#R*#8>#7]#n~
+~
+0 0
+D1
+~
+~
+0 0 40722
+S
+#40731
+Doserp's Room of #7[#8<#3#R*#8>#7]#7Eternal #8Warriors#7[#8<#3#R*#8>#7]#n~
+~
+0 0
+D3
+~
+~
+0 0 40722
+S
+#40732
+#0C#we#0c#wi#0l#w'#0s #0R#wo#0o#wm#n of #0S#wh#0a#wd#0o#ww#0s#n in #7[#8<#3#R*#8>#7]#7Eternal #8Warriors#7[#8<#3#R*#8>#7]#n~
+~
+0 0
+T
+god~
+$n vanishes.~
+You are transported somewhere else.~
+all~
+16384 40729 0
+D0
+~
+~
+0 0 40723
+S
+#40733
+Lupus's Room in the #7[#8<#3#R*#8>#7]#7Eternal #8Knights#7[#8<#3#R*#8>#7]#n~
+~
+0 0
+D3
+~
+~
+0 0 40723
+S
+#40799
+Moraugh's Room of the #7[#8<#3#R*#8>#7]#7Eternal #8Knights#7[#8<#3#R*#8>#7]#n~
+This room has maps pinned to the walls, blood everywhere, and your even
+standing in blood!
+~
+17846276 0
+S
+#0
+
+
+
+#MOBPROGS
+#0
+
+#SPECIALS
+M 40700 spec_guard_five
+M 40701 spec_guard_five
+S
+
+
+
+#RESETS
+M 0 40701 1 40700
+M 0 40700 1 40700
+O 0 40703 0 40726
+O 0 40701 0 40726
+O 0 40700 0 40726
+S
+
+
+
+#$

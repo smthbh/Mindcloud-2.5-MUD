@@ -1,0 +1,260 @@
+#AREADATA
+Name        Maxx     New Area~
+Builders    Maxx~
+Music       default.mid~
+VNUMs       78100 78199
+Cvnum       0
+Security    3
+Areabits    0
+End
+
+
+
+#MOBILES
+#78100
+big mofo~
+#gThe #4Bi#0g Mo#4fo~
+#gThe #4Bi#0g Mo#4fo#n #gstands here waiting for you to piss him off!!!
+~
+This Person Is Realy Big.
+~
+3 524418 1000
+4498 0 0 -100d20+3 0d0+0
+0
+0 0 0
+S
+#78101
+\\\\~
+#WT#6h#We #6Q#Wu#6e#Ws#6t #WH#6e#Wa#6l#We#6r~
+#WT#6h#We #6Q#Wu#6e#Ws#6t #WH#6e#Wa#6l#We#6r#n #gstands here waiting to heal you.
+~
+~
+10259 60 20000
+20001 0 0 0d0+0 0d0+0
+0
+0 0 0
+S
+#78103
+Baal~
+#RBaal#n~
+The Almighty #RBaal#n stands here waiting to die.
+~
+~
+1025 41943040 2000
+102 0 0 0d0+0 0d0+0
+0
+0 0 1
+S
+#0
+
+
+
+#OBJECTS
+#78100
+Shinny Glass Bong quest~
+#BA #YShinny #BLookin #WGlass #GBong#n~
+#BA #YShinny #BLookin #WGlass #GBong#n sit here tempting you to use it."All you have to do it light me."#n~
+13 0 1
+0 0 0 0
+24 100000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#78101
+sprite bottle~
+#CA #020oz #GSprite Bottle#n~
+#CA #020oz #GSprite Bottle#n a product of '#RThe CocaCola Company#n'~
+13 0 0
+0 0 0 0
+24 100000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#78102
+bag lays chip~
+#DA Bag of Lays Chips#w(#Gsour cream and onion#w)#n~
+#DA Bag of Lays Chips#w(#Gsour cream and onion#w)#n lays here. You look at how much they are $2.99.~
+13 0 0
+0 0 0 0
+24 100000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#78198
+weapon~
+#4Weapon~
+#4Weapon~
+5 0 8193
+100 100 500 4
+1 0
+A
+4 5
+A
+17 -5000
+A
+19 800
+A
+18 800
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#78199
+weapon~
+#4Weapon~
+#4Weapon~
+5 3 8193
+4 100 100 4
+1 0
+A
+19 2000
+A
+18 2000
+A
+17 -10000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#78100
+#0Quest #4Room #0Of #rMaddness#n1~
+~
+16777216 9
+D0
+~
+~
+0 0 78101
+S
+#78101
+#0Quest #4Room #0Of #rMaddness #W(safe)~
+~
+16777216 9
+D0
+~
+~
+0 0 78102
+D1
+~
+~
+0 0 78104
+D2
+~
+~
+0 0 78100
+D3
+~
+~
+0 0 78103
+D4
+~
+~
+0 0 78105
+D5
+~
+~
+0 0 78106
+S
+#78102
+#0Quest #4Room #0Of #RMaddness#n2~
+~
+16777216 9
+D2
+~
+~
+0 0 78101
+S
+#78103
+#0Quest #4Room #0Of #rMaddness3~
+~
+16777216 9
+D1
+~
+~
+0 0 78101
+S
+#78104
+#0Quest #4Room #0Of #rMaddness#n4~
+~
+16777216 9
+D3
+~
+~
+0 0 78101
+S
+#78105
+#0Quest #4Room #0Of #rMaddness#n5~
+~
+0 9
+D5
+~
+~
+0 0 78101
+S
+#78106
+#0Quest #4Room #0Of #rMaddness#n6~
+~
+0 9
+D4
+~
+~
+0 0 78101
+S
+#78107
+#YExping Room~
+~
+16793604 9
+S
+#0
+
+
+
+#SPECIALS
+M 78100 spec_guard_dragon
+M 78101 spec_cast_adept
+M 78103 spec_janitor
+S
+
+
+
+#RESETS
+M 0 78100 1 78100
+M 0 78101 1 78101
+M 0 78100 1 78102
+M 0 78100 1 78103
+M 0 78100 1 78104
+M 0 78100 1 78105
+M 0 78100 1 78106
+M 0 78103 20 78107
+S
+
+
+
+#$

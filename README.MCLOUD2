@@ -1,0 +1,100 @@
+Mindcloud 2.5 Code Release November 11, 2005
+---------------------------------------------------------------
+Its been 2 years since I released 2.0, wow  anyway, my original goal was to just
+fix it up for gcc4, but I figured why not give a little better codebase.
+Here is a short list of changes:
+- Hint OLC (hint, nohint)
+- Removed some areas
+- Removed Hobbit class
+- Fixed bugs
+- Cleaned up help files
+- Added intelligent mobs code (Tell Pinhead something and see how it replies)
+- Fixed up Makefile
+- New Version Command
+- Mud Will Backtrace when it crashes now showing what failed
+- Added safe sprintf and strcat called xprintf and xcatf (From my 1.4 release)
+- Loads artifacts on mkills now instead of on boot (See mudstat)
+- Added bones and mkills variables to ccenter
+- Update now skips empty areas so it should save on cpu a bit
+- Changes list now pages when it gets big
+- More I forgot I'm sure
+
+-- Below is original 2.0 release doc --
+Ok, here it is for all you folks who have been waiting.  As with
+all muds its unfinished code, and I don't appologize for it, you'll 
+just have to live with it, fix it and enjoy it.  There are many
+improvements in the code which you'll see if you play with it.  There
+are also many unfinished projects in there as well.  I will leave
+it up to the capable coders out there to figure it out.  If you contact
+me, I will try and help you if its a simple matter.  Enjoy the code, I
+put a lot of work into it and its been fun, so hopefully, I'll continue
+to put out code as long as people enjoy it.
+
+--- Zarius, Coder of Mindcloud and Dreamer of Dreams
+
+Homepage: http://www.mindcloud.com
+
+Licensing
+---------
+
+See the file 'license.txt' in your mcloud2/doc directory. Read, obey.
+Downloading and installing this code implies your agreement to the terms.
+It also affords a few fringe benifits you might want to take advantage of.
+You must also obey all the other license files in that folder as well if
+you want to run this code.  As far as my stuff is concerned, feel free
+to use it however you want, only thing I ask is that if you use it, don't
+be a jackass and say you wrote it, that keeps people from releasing code.
+
+Installation Notes
+------------------
+
+There are somethings that you need to be aware of prior to installing the game.
+Please read this stuff BEFORE you try and run the game. You'll avoid alot of
+hassle, and we'll be asking if you checked this stuff anyway.
+
+
+First Immortal
+--------------
+
+You will need to edit the kav_wiz.c file and look for a function called do_relevel
+and replace Admin with your name.  Create a char and once in the game type Relevel
+and thats it.
+
+
+Credits for Code used
+---------------------
+If I used code and there is no credit given, its because I didn't know where it
+came from and if notified I will add your name to the codecredits if you
+need that kind of recognition in your life :)
+
+The Makefile
+------------
+
+The Makefile has some suggestions on what to comment out if you get certain errors during
+your compile. If you encounter any, refer there to see if there's a fix for it.
+The usual 'make clean' command will remove the executable and .o files.
+
+Intermud-3
+----------
+
+The code comes with the Intermud-3 protocol installed. This is basically a chat network
+with other muds connected. It is primarily used by the LPMud community, but Diku muds
+are making their pressence known. You will need to configure the settings for this
+prior to connecting or things will more than likely not work right.
+
+If your mudhost does not allow outbound connections from your mud you can't use it.
+
+An option in the Makefile allows you to disable it from compiling.
+
+Before enabling I3, make sure you edit the settings in the I3 directory or from in
+the game by using I3Config.
+
+
+MSP - Mud Sound Protocol
+------------------------
+
+MSP has been a feature of this base for some time, but only now is it's potential beginning
+to be tapped. 
+
+MSP is typically only available under Zmud, and further information on the protocol can be
+found at: http://www.zuggsoft.com/zmud/mspzmud.htm

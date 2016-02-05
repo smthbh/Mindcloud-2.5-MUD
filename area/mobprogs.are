@@ -1,0 +1,90 @@
+#AREADATA
+Name        Zarius  Mobprogs~
+Builders    None~
+Music       default.mid~
+VNUMs       40800 40899
+Cvnum       0
+Security    9
+Areabits    0
+End
+
+
+
+#MOBILES
+#40800
+dice dealer~
+a dice player~
+A card dealer stands here playing highdice
+~
+~
+262145 0 0
+3002 0 0 0
+0 10
+0
+0
+#0
+
+
+
+#OBJECTS
+#40802
+mc slot machine~
+#wMC #RSlot #BMachine#n~
+#0the #wMC #RSlot #BMachine #0beeps and flashes here.#n~
+54 0 0 0
+0 0 0
+100 10000 5 1
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40803
+no name~
+(no short description)~
+(no description)~
+13 0 0 0
+0 0 0
+0 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#40800
+start~
+Here
+~
+4 0
+S
+#0
+
+
+
+#MOBPROGS
+#0
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#$

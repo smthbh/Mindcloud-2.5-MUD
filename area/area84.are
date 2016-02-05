@@ -1,0 +1,137 @@
+#AREADATA
+Name        Pizzaman   Special Objects~
+Builders    None~
+Music       default.mid~
+VNUMs       99500 99510
+Cvnum       0
+Security    1
+Areabits    0
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#99500
+Sigil Madness~
+#BSigil of Madness#n~
+#BSigil of Madness#n~
+33 139264 0 1
+0 0 0
+0 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#99501
+Cracked Ruby~
+#RRed Cracked Ruby#n~
+#RRed Cracked Ruby#n~
+33 139264 0 1
+0 0 0
+0 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#99502
+Book Spells Wizard~
+#PWizard's Book of Spells#n~
+#PWizard's Book of Spells#n~
+33 139264 0 1
+0 0 0
+0 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#99503
+Angel Wings~
+#WA #YPair #Wof Angelic #YWings#n~
+#WA #YPair #Wof Angelic #YWings#n~
+33 139264 0 1
+0 0 0
+0 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#99504
+Demons Eye~
+#RA Decaying Eye of a Demon#n~
+#RA Decaying Eye of a Demon#n~
+33 139264 0 1
+0 0 0
+0 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#99505
+Broken Computer~
+#yA broken computer#n~
+#yA broken computer#n~
+33 139264 0 1
+0 0 0
+0 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#0
+
+
+
+#MOBPROGS
+#0
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#$

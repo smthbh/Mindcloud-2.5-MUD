@@ -1,0 +1,157 @@
+#AREADATA
+Name        Artemis Kingdom Two~
+Builders    Artemis Pizzaman Moraugh~
+Music       default.mid~
+VNUMs       40400 40499
+Cvnum       0
+Security    1
+Areabits    0
+End
+
+
+
+#MOBILES
+#40400
+Guardian of Kingdome One~
+Guardian of Kingdom One~
+The Guardian of Kingdom One stands here.
+~
+~
+100355 0 0
+2992 75 20 3
+2 3
+0
+0
+#40401
+Healer Kingdom~
+#BKingdom One Healer#n~
+#BStar Healer is standing here helping you.#n
+~
+~
+3 0 1000
+3001 0 0 0
+0 0
+0
+0
+#40402
+nightmare healer~
+#0-#l=#0#cN#ni#cg#nh#ct#nm#ca#nr#ce #nH#ce#na#cl#ne#cr#0#l=#0-#n~
+#0-#l=#0#cN#ni#cg#nh#ct#nm#ca#nr#ce #nH#ce#na#cl#ne#cr#0#l=#0-#n
+~
+~
+3 0 0
+2997 0 0 0
+2 0
+0
+0
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#40400
+Kingdom of #y=#p-#cs#gta#cr#p-#y=#n~
+~
+1048580 0
+D1
+~
+~
+0 0 40401
+D4
+~
+~
+35 0 50206
+D5
+~
+~
+0 0 3001
+S
+#40401
+Bank of #y-#p=#cs#gta#cr#p=#y-#n~
+~
+4096 0
+D0
+~
+~
+0 0 40402
+D2
+~
+~
+0 0 40403
+D3
+~
+~
+0 0 40400
+S
+#40402
+Healing Room of #y=#p-#cs#gta#cr#p-#y=#n~
+~
+1032 0
+D2
+~
+~
+0 0 40401
+S
+#40403
+The #y-#p=#cs#gta#cr#p=#y-#n Throne Room~
+~
+0 0
+D0
+~
+~
+0 0 40401
+D1
+~
+~
+0 0 40404
+D2
+~
+~
+0 0 40405
+S
+#40404
+#BStorage of Star#n~
+~
+1024 0
+D3
+~
+~
+0 0 40403
+S
+#40405
+#BStar Quarters#n~
+~
+1024 0
+D0
+~
+~
+0 0 40403
+S
+#0
+
+
+
+#MOBPROGS
+#0
+
+#SPECIALS
+M 40400 spec_guard_two
+Z 40401 shopspec_healer
+Z 40402 shopspec_healer
+S
+
+
+
+#RESETS
+M 0 40400 1 40400
+M 0 40401 1 40402
+S
+
+
+
+#$

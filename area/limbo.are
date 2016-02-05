@@ -1,0 +1,1633 @@
+#AREADATA
+Name        Diku    Limbo~
+Builders    None~
+Music       default.mid~
+VNUMs       1 99
+Cvnum       0
+Security    3
+Areabits    0
+End
+
+
+
+#MOBILES
+#1
+Puff~
+Puff~
+Puff the Fractal Dragon is here, contemplating a higher reality.
+~
+~
+1 64 1000
+68 0 0 0
+2 0
+0
+0
+#2
+gremlin~
+a nasty little gremlin~
+A nasty little gremlin stands here, hopping from foot to foot.
+~
+He grins wickedly at you through pointed little teeth.
+~
+17 552 -1000
+32 0 0 0
+1 0
+0
+0
+#3
+gremlin~
+a big ugly gremlin~
+A big ugly gremlin stands here, snarling angrilly.
+~
+He snarls angrilly at you through long pointed fangs.
+~
+3 552 -1000
+16 0 0 0
+1 0
+0
+0
+#4
+gremlin~
+a huge vicious gremlin~
+A huge vicious gremlin stands here, growling with anger.
+~
+He growls viciously at you through huge curved tusks.
+~
+3 552 -1000
+4 0 0 0
+1 0
+0
+0
+#5
+cute fluffy creature~
+a cute little fluffy creature~
+A cute little fluffy creature looks up at you, begging for food.
+~
+"Please, kind person, spare me some food?", he squeaks.  You consider 
+stamping on the wretched little creature, but then decide it's not worth 
+the mess it would make on your boots.
+~
+3 552 1000
+45 0 0 0
+1 0
+0
+0
+#6
+mount~
+a generic mount~
+A generic mount stands here, waiting to be ridden.
+~
+It looks like it would make a good mount...
+~
+2563 0 -1000
+91 0 0 0
+1 0
+0
+0
+#7
+frog~
+a small green frog~
+A small green frog sits here.
+~
+It's small, green, and intelligent-looking.
+~
+3 552 1000
+41 0 0 0
+1 0
+0
+0
+#8
+raven~
+a raven~
+A raven is flapping around here.
+~
+You notice that it is very intelligent-looking.
+~
+3 524840 1000
+7 0 0 0
+1 0
+0
+0
+#9
+cat~
+a small black cat~
+A small black cat is curled up here.
+~
+It is very cute, and very intelligent-looking.
+~
+3 552 1000
+15 0 0 0
+1 0
+0
+0
+#10
+dog~
+a small brown dog~
+A small brown dog is sitting here.
+~
+It is very cute, and very intelligent-looking.
+~
+3 552 1000
+7 0 0 0
+1 0
+0
+0
+#12
+eye~
+an eyeball~
+An eyeball is lying on the ground.
+~
+It stares right back at you!
+~
+3 552 1000
+68 0 0 0
+1 0
+0
+0
+#13
+Quest Velwyn~
+Velwyn the Quest giver~
+Velwyn the quest creator stands here giving official quests
+~
+Don't mess with him
+~
+106625 0 0
+6012 0 0 0
+0 0
+0
+0
+#14
+Quest Diablo~
+Diablo the Quest giver~
+Diablo the quest creator stands here giving out official player killing quests.
+~
+~
+3 0 0
+5998 0 0 0
+0 0
+0
+0
+#21
+genie~
+The Genie~
+The ancient genie, bloodson to the Prince of the East, floats here.
+~
+This is the almighty genie of the eastern worlds,
+and he will answer the questions of mortals, if
+they are asked correctly.
+ 
+To let the genie know that you wish to locate someone,
+you ask it "please locate <persons name>".
+ 
+To let the genie know that you wish to open a
+scrying portal to a person, you ask it
+"please scry <persons name>".
+~
+3 540672 0
+15 0 0 0
+0 6
+0
+0
+#30
+dog takita kita~
+(no short description)~
+(no long description)
+~
+~
+1 0 0
+10 0 0 0
+0 0
+0
+0
+#31
+Fat Tony~
+(no short description)~
+(no long description)
+~
+~
+106755 0 0
+2 0 0 0
+1 0
+0
+0
+#50
+no name~
+(no short description)~
+(no long description)
+~
+~
+1 0 0
+11 0 0 0
+0 0
+0
+0
+#0
+
+
+
+#OBJECTS
+#1
+dummy object~
+a dummy object~
+Dummy object is used for loading non-existant objects~
+13 256 0 0
+0 0 0
+0 0 0 0
+0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#2
+bone money~
+#wa #Rbloody #wbone#n~
+#wOne #Rbloody #wbone lies here.#n~
+20 256 0 1
+0 0 0
+1 0 0 0
+1 1
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#3
+bones money~
+#w%d #Rbloody #wbones#n~
+#wA pile of #Rbloody #wbones.#n~
+20 256 0 1
+0 0 0
+0 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#4
+Meat Grinder~
+#RT#rhe #RM#reat #RG#rrinder#n~
+#RT#rhe #RM#reat #RG#rrinder#n~
+15 3588 0 0
+0 0 0
+0 5 0 0
+10000 500
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#10
+corpse~
+the corpse of %s~
+The corpse of %s is lying here.~
+23 0 0 1
+0 0 0
+0 0 0 1
+100 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#11
+corpse~
+the corpse of %s~
+The corpse of %s is lying here.~
+24 0 0 0
+0 0 0
+0 0 0 1
+100 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#12
+head %s~
+the severed head of %s~
+The severed head of %s is lying here.~
+13 0 0 16385
+0 0 0
+10 0 12 0
+5 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#13
+heart %s~
+the torn-out heart of %s~
+The torn-out heart of %s is lying here.~
+19 0 0 16385
+0 0 0
+16 0 13 0
+2 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#14
+arm %s~
+the sliced-off arm of %s~
+The sliced-off arm of %s is lying here.~
+19 0 0 16385
+0 0 0
+20 0 14 0
+5 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#15
+leg %s~
+the sliced-off leg of %s~
+The sliced-off leg of %s is lying here.~
+19 0 0 16385
+0 0 0
+20 0 15 0
+5 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#16
+turd~
+the steaming turds of %s~
+The steaming turds of %s assail your nostrils.~
+13 0 0 0
+0 0 0
+5 0 0 1
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#17
+gate magical rift~
+a swirling rift of energy~
+A swirling rift of energy is floating above the ground here.~
+12 0 0 0
+0 0 0
+0 0 0 0
+1000 250
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#18
+slice pizza~
+#Ra #rs#Rl#Yi#Rc#re #Ro#Yf #rPi#Rz#Yz#Wa#n~
+#RA #rs#Rl#Yi#Rc#re #Ro#Yf #rPi#Rz#Yz#Wa#Ym#Ra#rn's S#Ra#Yus#Wa#Yge #Ra#rn#Rd #RC#Yh#Wee#Ys#Re #rPi#Rz#Yz#Wa#n~
+19 139264 0 1
+0 0 0
+20 0 0 0
+5 5
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#19
+Vodka Liquor~
+#WA #cL#Ci#7t#We#Cr #cB#Co#7t#Wt#Cl#ce #7o#Wf #cV#Co#7d#Wk#Ca#n~
+#cA bottle of Vodka is here.#n~
+17 131072 0 1
+0 0 0
+20 20 5 1
+1 50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#20
+mushroom~
+a Magic Mushroom~
+A Delicious Magic Mushroom is here.~
+19 0 0 1
+0 0 0
+5 0 0 0
+1 10
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#21
+ball light~
+a bright ball of light~
+A bright ball of light shimmers in the air.~
+1 0 0 1
+0 0 0
+0 0 -1 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#22
+spring~
+a magical spring~
+A magical spring flows from the ground here.~
+25 64 0 0
+0 0 0
+100000 100000 0 0
+5000 10
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#23
+spring blood~
+a blood spring~
+A spring of dark red liquid flows from the ground here.~
+25 64 0 0
+0 0 0
+100000 100000 13 0
+5000 10
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#24
+stone~
+(no short description)~
+(no description)~
+9 0 0 1
+0 0 0
+0 0 0 0
+0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#25
+slice pizza~
+#Ra #rs#Rl#Yi#Rc#re #Ro#Yf #rPi#Rz#Yz#Wa#n~
+#RA #rs#Rl#Yi#Rc#re #Ro#Yf #rPi#Rz#Yz#Wa#Ym#Ra#rn's S#Ra#Yus#Wa#Yge #Ra#rn#Rd #RC#Yh#Wee#Ys#Re #rPi#Rz#Yz#Wa#n~
+19 139264 0 1
+0 0 0
+20 0 0 0
+5 2
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#26
+slice pizza~
+#Ra #rs#Rl#Yi#Rc#re #Ro#Yf #rPi#Rz#Yz#Wa#n~
+#RA #rs#Rl#Yi#Rc#re #Ro#Yf #rPi#Rz#Yz#Wa#Ym#Ra#rn's S#Ra#Yus#Wa#Yge #Ra#rn#Rd #RC#Yh#Wee#Ys#Re #rPi#Rz#Yz#Wa#n~
+19 139264 0 1
+0 0 0
+20 0 0 0
+5 2
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#27
+slice pizza~
+#Ra #rs#Rl#Yi#Rc#re #Ro#Yf #rPi#Rz#Yz#Wa#n~
+#RA #rs#Rl#Yi#Rc#re #Ro#Yf #rPi#Rz#Yz#Wa#Ym#Ra#rn's S#Ra#Yus#Wa#Yge #Ra#rn#Rd C#Yh#Wee#Ys#Re #rPi#Rz#Yz#Wa#n~
+19 139264 0 1
+0 0 0
+20 0 0 0
+5 2
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#28
+slice pizza~
+#Ra #rs#Rl#Yi#Rc#re #Ro#Yf #rPi#Rz#Yz#Wa#n~
+#RA #rs#Rl#Yi#Rc#re #Ro#Yf #rPi#Rz#Yz#Wa#Ym#Ra#rn's S#Ra#Yus#Wa#Yge #Ra#rn#Rd C#Yh#Wee#Ys#Re #rPi#Rz#Yz#Wa#n~
+19 139264 0 1
+0 0 0
+20 0 0 0
+5 2
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#29
+box pizza pizzabox~
+#Ra #rPi#Rz#Yz#Wa#Ym#Ra#rn's Pi#Rz#Yz#Wa #RB#ro#Rx#n~
+#rA #RB#ro#Rx o#Yf #rPi#Rz#Yz#Wa#Ym#Ra#rn's S#Ra#Yus#Wa#Yge #Ra#rn#Rd #RC#Yh#Wee#Ys#Re #rPi#Rz#Yz#Wa#n~
+15 131072 0 1
+0 0 0
+0 5 0 0
+6 20
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#30
+recliner chair black leather lazyboy~
+#0a black leather La-Z-Boy Recliner#n~
+#0An expensive black recliner sits in the middle of the room#n~
+12 0 0 0
+0 0 0
+0 0 0 0
+10000 1250
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31
+stuff~
+more stuff~
+A lot of stuff is here.~
+8 139264 0 1
+0 0 0
+0 0 0 0
+5 100
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#32
+large heart shaped bed~
+#RA large heart shaped bed#n~
+#RA large heart shaped bed is in the middle of the room#n~
+12 4 0 0
+0 0 0
+0 0 0 0
+10000 10000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33
+large heart shaped bed~
+#RA large heart shaped bed#n~
+#RA large heart shaped bed is in the middle of the room#n~
+12 4 0 0
+0 0 0
+0 0 0 0
+10000 10000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#34
+jacuzzi bubbling hot~
+#LA #Wbubbling #Cjacuzzi#n~
+#LA #Wbubbling #Cjacuzzi's #Rhot water is very inviting#n~
+12 4 0 0
+0 0 0
+0 0 0 0
+10000 10000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#35
+jacuzzi bubbling hot~
+#LA #Wbubbling #Cjacuzzi#n~
+#LA #Wbubbling #Cjacuzzi's #Rhot water is very inviting#n~
+12 4 0 0
+0 0 0
+0 0 0 0
+10000 10000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#36
+scrabble letter Z~
+#YA little wooden square that looks like part of a game#n~
+#YA little wooden square with the letter "#0Z#Y" on it#n~
+13 0 0 1
+0 0 0
+0 0 0 0
+1 50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#37
+scrabble letter blank~
+#YA little wooden square that looks like part of a game#n~
+#YA little wooden square with nothing on it#n~
+13 8192 0 1
+0 0 0
+0 0 0 0
+1 50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#38
+scrabble bag~
+#YThe #RScrabble #YBag#n~
+#Ya bag full of little wooden squares, probably from a game#n~
+15 0 0 1
+0 0 0
+10000 0 0 0
+5 10000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#39
+scrabble triple word tile~
+#Ya little tile that looks like part of a game#n~
+#Ya tile with "#RTriple Word Score#Y" on it#n~
+13 0 0 1
+0 0 0
+0 0 0 0
+1 500
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40
+scrabble double word tile~
+#Ya little tile that looks like part of a game#n~
+#Ya tile with "#PDouble Word Score#Y" on it#n~
+13 0 0 1
+0 0 0
+0 0 0 0
+1 250
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#41
+scrabble triple letter tile~
+#Ya little tile that looks like part of a game#n~
+#YA tile with "#LTriple Letter Bonus#Y" on it#n~
+13 0 0 1
+0 0 0
+0 0 0 0
+1 100
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#42
+scrabble double letter tile~
+#Ya little tile that looks like part of a game#n~
+#YA tile with "#CDouble Letter Bonus#Y" on it#n~
+13 0 0 1
+0 0 0
+0 0 0 0
+1 50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#43
+scrabble no bonus~
+#YNone, better luck next time#n~
+#YNone, better luck next time#n~
+13 0 0 1
+0 0 0
+0 0 0 0
+1 1
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#44
+bonus bag~
+#RScrabble B#YO#GN#LU#PS #YBag#n~
+#RScrabble B#YO#GN#LU#PS #YBag#n~
+15 0 0 1
+0 0 0
+10000 0 0 0
+5 10000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#45
+done bag~
+done bag~
+Done bag~
+15 0 0 1
+0 0 0
+10000 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#46
+glass chardonnay white wine~
+#Wa tall glass of Chardonnay#n~
+#WA glass of white wine sits at the edge of the jacuzzi#n~
+17 139264 0 1
+0 0 0
+5 5 2 0
+2 3
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#47
+glass chardonnay white wine~
+#Wa tall glass of Chardonnay#n~
+#WA glass of white wine sits at the edge of the jacuzzi#n~
+17 139264 0 1
+0 0 0
+5 5 2 0
+2 3
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#48
+glass chardonnay white wine~
+#Wa tall glass of Chardonnay#n~
+#WA glass of white wine sits at the edge of the jacuzzi#n~
+17 139264 0 1
+0 0 0
+5 5 2 0
+2 3
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#49
+glass chardonnay white wine~
+#Wa tall glass of Chardonnay#n~
+#WA glass of white wine sits at the edge of the jacuzzi#n~
+17 139264 0 1
+0 0 0
+5 5 2 0
+2 3
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#50
+Suprise Box~
+#sS#su#sp#sr#si#ss#se #sB#so#sx#n~
+#sS#su#sp#sr#si#ss#se #sB#so#sx#n~
+15 256 0 1
+0 0 0
+10000 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#51
+Magna Amulet~
+#BMagna's Special Amulet#n~
+#BMagna's Special Amulet#n~
+9 4224 0 262145
+0 0 0
+100 0 0 8
+1 0
+A
+13 25000
+A
+13 25000
+A
+13 25000
+A
+13 25000
+A
+12 25000
+A
+12 25000
+A
+12 25000
+A
+12 25000
+A
+14 25000
+A
+14 25000
+A
+14 25000
+A
+14 25000
+A
+18 7000
+A
+19 7000
+A
+17 -10000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#69
+Sword Excalibur~
+the #6Sword #4Excalibur#n~
+A humming sword lies here, radiating power and goodness~
+5 1283 0 8193
+0 0 0
+0 100 100 3
+10 100000
+A
+18 55
+A
+19 55
+A
+1 10
+A
+4 10
+A
+2 10
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#70
+sword blade~
+the blade of a sword~
+The blade of a sword lies here.~
+34 0 0 1
+0 0 0
+0 71 72 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#71
+sword hilt~
+the hilt of a sword~
+The hilt of a sword lies here.~
+34 0 0 1
+0 0 0
+70 0 72 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#72
+sword power~
+#R*#wpower#R* #Wsword#n~
+The sword of power lies here~
+5 0 0 8193
+0 0 0
+0 10 40 3
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#89
+menacing longsword~
+a wicked longsword~
+A huge, evil longsword is floating here.~
+1 0 0 0
+0 0 0
+1 1 1 1
+1 1
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#99
+wallu~
+a wall of flowing water~
+A wall of flowing water blocks your way up.~
+40 64 0 0
+0 0 0
+0 0 0 0
+5000 10
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#1
+#RThe Seven Gates of Hell#n~
+You are floating in nothing.
+~
+1075212 1
+D5
+~
+~
+0 0 0
+S
+#2
+Limbo~
+You are floating in a formless void, detached from all sensation of physical
+matter, surrounded by swirling glowing light, which fades into the relative
+darkness around you without any trace of edges or shadow.
+   There is a "No Tipping" notice pinned to the darkness.
+~
+1048588 1
+S
+#3
+The Disconnection Room~
+This is the room where everyone goes just before they quit.  If you are a 
+mortal you should *NOT* be here, so please get out...NOW.
+~
+12 1
+S
+#4
+#RHoneymoon #YSuite#n~
+~
+1065484 1
+S
+#7
+#0THE HOLE!!!#n~
+#0You've broken some form of rule, and now you must serve#n
+#0a #0sentence chosen by the Immortal who put you here.#n
+ 
+#0Complaining will get you silenced.#n
+ 
+#0Any form of botting #0will get you frozen.#n
+~
+13688847 6
+S
+#10
+Room of Dreams~
+~
+1077252 0
+S
+#11
+#RX-Card Game Room#n~
+~
+1060868 0
+S
+#12
+MC Casino~
+Welcome to the Mindcloud Casino. To see what a machine pays out type LOOK
+IN machine. To see how to play type HELP GAMES. 
+~
+12 1
+D3
+~
+~
+0 0 3001
+D5
+~
+~
+0 0 70100
+S
+#14
+#yOn Top of the Mountain of Love#n~
+Here you stand, hand in hand. Here you give and recieve your love and bands.
+~
+4 0
+S
+#50
+The Cage~
+You are standing in the cage. Time to Spill some blood!
+~
+1188358 0
+D0
+~
+~
+0 -1 51
+D1
+~
+~
+0 -1 61
+D3
+~
+~
+0 -1 64
+D4
+~
+~
+0 -1 54
+S
+#51
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+1188358 0
+D0
+~
+~
+0 -1 58
+D1
+~
+~
+0 -1 60
+D2
+~
+~
+0 -1 50
+D3
+~
+~
+0 -1 52
+D4
+~
+~
+0 -1 53
+S
+#52
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+1188358 0
+D0
+~
+~
+0 -1 57
+D1
+~
+~
+0 -1 51
+D2
+~
+~
+0 -1 64
+D4
+~
+~
+0 -1 66
+S
+#53
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+1188358 0
+D0
+~
+~
+0 -1 63
+D1
+~
+~
+0 -1 56
+D2
+~
+~
+0 -1 54
+D3
+~
+~
+0 -1 66
+D5
+~
+~
+0 -1 51
+S
+#54
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+1188358 0
+D0
+~
+~
+0 -1 53
+D1
+~
+~
+0 -1 55
+D3
+~
+~
+0 -1 67
+D5
+~
+~
+0 -1 50
+S
+#55
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+1188358 0
+D0
+~
+~
+0 -1 56
+D3
+~
+~
+0 -1 54
+D5
+~
+~
+0 -1 61
+S
+#56
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+1188358 0
+D0
+~
+~
+0 -1 59
+D2
+~
+~
+0 -1 55
+D3
+~
+~
+0 -1 53
+D5
+~
+~
+0 -1 60
+S
+#57
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+1188358 0
+D1
+~
+~
+0 -1 58
+D2
+~
+~
+0 -1 52
+D4
+~
+~
+0 -1 65
+S
+#58
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+1188358 0
+D1
+~
+~
+0 -1 62
+D2
+~
+~
+0 -1 51
+D3
+~
+~
+0 -1 57
+D4
+~
+~
+0 -1 63
+S
+#59
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+1188358 0
+D2
+~
+~
+0 -1 56
+D3
+~
+~
+0 -1 63
+D5
+~
+~
+0 -1 62
+S
+#60
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+1188358 0
+D0
+~
+~
+0 -1 62
+D2
+~
+~
+0 -1 61
+D3
+~
+~
+0 -1 51
+D4
+~
+~
+0 -1 56
+S
+#61
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+1188358 0
+D0
+~
+~
+0 -1 60
+D3
+~
+~
+0 -1 50
+D4
+~
+~
+0 -1 55
+S
+#62
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+1188358 0
+D2
+~
+~
+0 -1 60
+D3
+~
+~
+0 -1 58
+D4
+~
+~
+0 -1 59
+S
+#63
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+1188358 0
+D1
+~
+~
+0 -1 59
+D2
+~
+~
+0 -1 53
+D3
+~
+~
+0 -1 65
+D5
+~
+~
+0 -1 58
+S
+#64
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+1188358 0
+D0
+~
+~
+0 -1 52
+D1
+~
+~
+0 -1 50
+D4
+~
+~
+0 -1 67
+S
+#65
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+1188358 0
+D1
+~
+~
+0 -1 63
+D2
+~
+~
+0 -1 66
+D5
+~
+~
+0 -1 57
+S
+#66
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+1188358 0
+D0
+~
+~
+0 -1 65
+D1
+~
+~
+0 -1 53
+D2
+~
+~
+0 -1 67
+D5
+~
+~
+0 -1 52
+S
+#67
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+1188358 0
+D0
+~
+~
+0 -1 66
+D1
+~
+~
+0 -1 54
+D5
+~
+~
+0 -1 64
+S
+#68
+The Pit~
+You are standing in a dark pit.
+~
+1188358 0
+D0
+~
+~
+0 0 67
+S
+#69
+The Loser's Resting Place~
+Defeat! You slump to the ground and drift off into a deep, embarassed sleep.
+~
+1188354 0
+D0
+~
+~
+0 -1 3054
+S
+#70
+The Winner's Circle~
+Onlookers cheer you and toss roses in your direction. A feeling of great pride fills your chest and you smile triumphantly.
+~
+1188354 0
+D0
+~
+~
+0 -1 3054
+S
+#0
+
+
+
+#MOBPROGS
+#1
+say Welcome to Hell $n!!!
+say We have such wonderful sights to show you
+mob randsoc
+~
+#2
+say You mother fucker, do me now!
+sleep 15
+grope $n
+~
+#0
+
+#OBJPROGS
+#1
+OBJ echo $i Pick me up mother fucker!!
+OBJ force $n get sword
+OBJ echo ok, thats better don't drop me again, $n
+sleep 10
+OBJ echo Forsooth!
+~
+#0
+
+#ROOMPROGS
+#1
+ROOM echo You are hungry? Let me fix that
+ROOM oload 3009 1
+ROOM oload 3009 1
+~
+#0
+
+#SPECIALS
+M 5 spec_gremlin_original
+Q 13 questspec_mob_and_item
+Z 31 shopspec_generic
+S
+
+
+
+#RESETS
+O 0 32 0 4
+O 0 34 0 4
+O 0 46 0 4
+O 0 47 0 4
+S
+
+
+
+#$

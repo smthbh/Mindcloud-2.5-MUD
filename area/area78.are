@@ -1,0 +1,220 @@
+#AREADATA
+Name        Artemis Kingdom Three~
+Builders    Artemis Pizzaman Moraugh~
+Music       default.mid~
+VNUMs       40500 40599
+Cvnum       0
+Security    1
+Areabits    0
+End
+
+
+
+#MOBILES
+#40500
+nightmare guardian~
+#w-#l=#r#0[#cN#wi#cg#wh#ct#wm#ca#wr#ce#0]#l=#w-#n Guardian~
+#w-#l=#r#0[#cN#wi#cg#wh#ct#wm#ca#wr#ce#0]#l=#w-#n Guardian is here, watching for intruders.
+~
+~
+100369 0 0
+2001 0 0 0
+0 0
+0
+0
+#40501
+nightmare guardian~
+#w-#l=#r#0[#cN#wi#cg#wh#ct#wm#ca#wr#ce#0]#l=#w-#n Guardian~
+#w-#l=#r#0[#cN#wi#cg#wh#ct#wm#ca#wr#ce#0]#l=#w-#n Guardian is here, watching for intruders.
+~
+~
+100369 0 0
+1995 0 0 0
+0 0
+0
+0
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#40500
+#w-#l=#r#0[#cN#wi#cg#wh#ct#wm#ca#wr#ce#0]#l=#w-#n Entrance Room~
+~
+1048576 0
+D0
+~
+~
+0 0 40501
+D1
+~
+~
+0 0 40503
+D2
+~
+~
+0 0 40502
+D3
+~
+~
+0 0 40504
+D4
+~
+~
+0 0 9323
+S
+#40501
+#w-#l=#r#0[#cN#wi#cg#wh#ct#wm#ca#wr#ce#0]#l=#w-#n Bank~
+~
+1052672 0
+D0
+~
+~
+0 0 40505
+D2
+~
+~
+0 0 40500
+S
+#40502
+#w-#l=#r#0[#cN#wi#cg#wh#ct#wm#ca#wr#ce#0]#l=#w-#n~
+~
+1049600 0
+D0
+~
+~
+0 0 40500
+S
+#40503
+#w-#l=#r#0[#cN#wi#cg#wh#ct#wm#ca#wr#ce#0]#l=#w-#n~
+~
+0 0
+D3
+~
+~
+0 0 40500
+S
+#40504
+#w-#l=#r#0[#cN#wi#cg#wh#ct#wm#ca#wr#ce#0]#l=#w-#n~
+~
+0 0
+D1
+~
+~
+0 0 40500
+S
+#40505
+#w-#l=#r#0[#cN#wi#cg#wh#ct#wm#ca#wr#ce#0]#l=#w-#n~
+~
+1048576 0
+D0
+~
+~
+0 0 40506
+D1
+~
+~
+0 0 40509
+D2
+~
+~
+0 0 40501
+S
+#40506
+#w-#l=#r#0[#cN#wi#cg#wh#ct#wm#ca#wr#ce#0]#l=#w-#n~
+~
+1048576 0
+D1
+~
+~
+0 0 40507
+D2
+~
+~
+0 0 40505
+D3
+~
+~
+0 0 40508
+S
+#40507
+#w-#l=#r#0[#cN#wi#cg#wh#ct#wm#ca#wr#ce#0]#l=#w-#n~
+~
+1048576 0
+D3
+~
+~
+0 0 40506
+S
+#40508
+#w-#l=#r#0[#cN#wi#cg#wh#ct#wm#ca#wr#ce#0]#l=#w-#n~
+~
+1048576 0
+D1
+~
+~
+0 0 40506
+S
+#40509
+#w-#l=#r#0[#cN#wi#cg#wh#ct#wm#ca#wr#ce#0]#l=#w-#n~
+~
+1048576 0
+D1
+~
+~
+0 0 40510
+D3
+~
+~
+0 0 40505
+S
+#40510
+#w-#l=#r#0[#cN#wi#cg#wh#ct#wm#ca#wr#ce#0]#l=#w-#n~
+~
+1048576 0
+D1
+~
+~
+0 0 40511
+D3
+~
+~
+0 0 40509
+S
+#40511
+#0-#l=#0[#cN#ni#cg#nh#ct#nm#ca#nr#ce #nH#co#ns#cp#ni#ct#na#cl#0]#l=#0-#n~
+~
+1048576 0
+D3
+~
+~
+0 0 40510
+S
+#0
+
+
+
+#MOBPROGS
+#0
+
+#SPECIALS
+M 40500 spec_guard_three
+M 40501 spec_guard_three
+S
+
+
+
+#RESETS
+M 0 40501 1 40500
+M 0 40500 1 40500
+M 0 40402 1 40511
+S
+
+
+
+#$

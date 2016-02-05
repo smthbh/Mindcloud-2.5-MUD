@@ -1,0 +1,317 @@
+#AREADATA
+Name        Artemis   The Casino~
+Builders    Artemis~
+Music       default.mid~
+VNUMs       70000 70099
+Cvnum       0
+Security    1
+Areabits    0
+End
+
+
+
+#MOBILES
+#70000
+glass casino card dealer~
+#BG#bl#Ba#bs#Bs #RC#ra#Rs#ri#Rn#ro#R'#rs #CH#ci#Cg#ch#Cd#ci#Cc#ce #PD#pe#Pa#pl#Pe#pr#n~
+#BG#bl#Ba#bs#Bs #RC#ra#Rs#ri#Rn#ro#R'#rs #CH#ci#Cg#ch#Cd#ci#Cc#ce #PD#pe#Pa#pl#Pe#pr#n is standing here, waiting for a game.
+~
+~
+262147 0 0
+3002 0 0 0
+0 0
+0
+0
+#0
+
+
+
+#OBJECTS
+#70000
+Bow Slot Machine~
+#BThe #YG#yo#Yl#yd#Ye#yn #YB#yo#Yw #RS#rl#Ro#rt #RM#ra#Rc#rh#Ri#rn#Re#n~
+#BThe #YG#yo#Yl#yd#Ye#yn #YB#yo#Yw #RS#rl#Ro#rt #RM#ra#Rc#rh#Ri#rn#Re #nIs here~
+54 0 0 0
+0 0 0
+750 3000 5 1
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#70001
+Rich Bastard Slot Machine~
+#BT#Gh#Re #RR#ri#Rc#rh #BB#ba#Bs#bt#Ba#br#Bd#b'#Bs #YS#yl#Yo#yt #RM#ra#Rc#rh#Ri#rn#Re#n~
+#BT#Gh#Re #RR#ri#Rc#rh #BB#ba#Bs#bt#Ba#br#Bd#b'#Bs #YS#yl#Yo#yt #RM#ra#Rc#rh#Ri#rn#Re #n is here, waiting to be used.~
+54 0 0 0
+0 0 0
+1000 20000 3 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#70002
+Diamond Slot Machine~
+#BThe #C#fD#c#fi#C#fa#c#fm#C#fo#c#fn#C#fd #BS#bl#Bo#bt#n~
+#BThe #C#fD#c#fi#C#fa#c#fm#C#fo#c#fn#C#fd #BS#bl#Bo#bt#n is here, waiting for all of your money to leave your pockets~
+54 0 0 0
+0 0 0
+250 12500 5 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#70003
+El Cheapo Slot Machine~
+#RE#rl #GC#gh#Ge#ga#Gp#go #s#fS#sl#so#st #sM#sa#sc#sh#si#sn#se~
+An #RE#rl #GC#gh#Ge#ga#Gp#go #s#fS#sl#so#st #sM#sa#sc#sh#si#sn#se #n Is here, waiting for your spare change.~
+54 0 0 0
+0 0 0
+50 500 3 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#70000
+#BThe Chamber of Glass~
+~
+1048580 0
+D5
+~
+~
+0 0 70096
+S
+#70001
+#GT#gh#Ge #BG#bl#Ba#bs#Bs #RC#ra#Rs#ri#Rn#ro #GA#gT#GM #BR#bo#Bo#bm#n~
+~
+4096 0
+D3
+~
+~
+0 0 70096
+S
+#70002
+#GT#gh#Ge #BG#bl#Ba#bs#Bs #RC#ra#Rs#ri#Rn#ro#n~
+~
+4 0
+D1
+~
+~
+0 0 70096
+D3
+~
+~
+0 0 70003
+S
+#70003
+#GT#gh#Ge #BG#bl#Ba#bs#Bs #RC#ra#Rs#ri#Rn#ro#n~
+~
+4 0
+D0
+~
+~
+0 0 70004
+D1
+~
+~
+0 0 70002
+S
+#70004
+#GT#gh#Ge #BG#bl#Ba#bs#Bs #RC#ra#Rs#ri#Rn#ro#n~
+~
+0 0
+D2
+~
+~
+0 0 70003
+S
+#70005
+~
+~
+4 0
+S
+#70006
+~
+~
+4 0
+S
+#70007
+~
+~
+4 0
+S
+#70008
+~
+~
+4 0
+S
+#70009
+~
+~
+4 0
+S
+#70010
+~
+~
+4 0
+S
+#70011
+~
+~
+4 0
+S
+#70012
+~
+~
+4 0
+S
+#70013
+~
+~
+4 0
+S
+#70014
+~
+~
+4 0
+S
+#70015
+~
+~
+4 0
+S
+#70016
+~
+~
+4 0
+S
+#70017
+~
+~
+4 0
+S
+#70018
+~
+~
+4 0
+S
+#70019
+~
+~
+4 0
+S
+#70020
+#GT#gh#Ge #BG#bl#Ba#bs#Bs #RC#ra#Rs#ri#Rn#ro #YS#yl#Yo#yt #PR#po#Po#pm~
+~
+4 0
+D0
+~
+~
+0 0 70096
+S
+#70021
+~
+~
+4 0
+S
+#70022
+~
+~
+4 0
+S
+#70023
+~
+~
+4 0
+S
+#70096
+#GT#gh#Ge #BG#bl#Ba#bs#Bs #RC#ra#Rs#ri#Rn#ro#n~
+~
+4 0
+D0
+~
+~
+0 0 70097
+D1
+~
+~
+0 0 70001
+D2
+~
+~
+0 0 70020
+D3
+~
+~
+0 0 70002
+D4
+~
+~
+0 0 3005
+S
+#70097
+#GT#gh#Ge #BG#bl#Ba#bs#Bs #RC#ra#Rs#ri#Rn#ro#R'#rs #CH#ci#Cg#ch#Cd#ci#Cc#ce #PR#po#Po#pm~
+~
+0 0
+D2
+~
+~
+0 0 70096
+S
+#70098
+~
+~
+4 0
+S
+#70099
+~
+~
+4 0
+S
+#0
+
+
+
+#MOBPROGS
+#0
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 70000 0 70020
+O 0 70001 0 70020
+O 0 70002 0 70020
+O 0 70003 0 70020
+M 0 70000 1 70097
+S
+
+
+
+#$

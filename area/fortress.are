@@ -1,0 +1,228 @@
+#AREADATA
+Name        Forbidden Fortress~
+Builders    Jobo~
+Music       default.mid~
+VNUMs       150 170
+Cvnum       0
+Security    1
+Areabits    0
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#150
+steak~
+a tender t-bone steak~
+A T-bone Steak lies on a plate.~
+19 0 0 1
+0 0 0
+10 0 0 0
+1 15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#151
+The preparation room~
+Some use this room to prepare for battle, however only a fool
+enters the Forbidden Fortress unprepared. Besides an old 
+rusted weapons wrack and a chair, this place is empty.
+~
+1056776 0
+D2
+~
+~
+0 0 152
+S
+#152
+Hall of shame~
+Dead bodies line the hallway and blood stains almost every
+inch of the floor. Those who lost their battle remain here 
+as a reminder of how grusome death really is.
+~
+1056776 0
+D0
+~
+~
+0 0 151
+D1
+~
+~
+0 0 153
+D2
+~
+~
+0 0 154
+S
+#153
+Hallway end~
+There is nothing here but bones and bodies. Besides a small 
+stairway heading up to the tower the only other way to go is
+west.
+~
+1056776 0
+D3
+~
+~
+0 0 152
+D4
+~
+~
+0 0 160
+S
+#154
+Tower base~
+Some stairs lead upwards to a small tower. A large red banner
+hangs by them tattered and bloody from the years of seeing
+combat and death. You feel some heat coming from the west.
+~
+1056776 0
+D0
+~
+~
+0 0 152
+D2
+~
+~
+0 0 156
+D3
+~
+~
+0 0 157
+D4
+~
+~
+0 0 158
+S
+#155
+Field of victory~
+Those triumphiant in their battle take time to rest and enjoy
+their victory before heading back out for more. Enjoy your
+rest for you deserved it.
+~
+44 0
+S
+#156
+A dead end~
+The only way you can go is back the way you came. The doorway
+out has been blocked for many, many years. There are only two
+ways out of the forbidden fortress, kill or be killed.
+~
+1056776 0
+D0
+~
+~
+0 0 154
+S
+#157
+Forbiddden furnace~
+A large black furnace pumps out heat to the entire Fortress.
+This room is exceptionally hot, and a bright red fire burns
+constantly. Even here death shows its mark as the smell of
+burnt flesh overwhelms your senses.
+~
+1056776 0
+D1
+~
+~
+0 0 154
+S
+#158
+Forbidden tower~
+This is a small tower on the fortress. You can see the 
+outside through a small window, but its to small for escape.
+~
+1056776 0
+D0
+~
+~
+0 0 159
+D1
+~
+~
+0 0 161
+D5
+~
+~
+0 0 154
+S
+#159
+Inside the forbidden tower~
+Still in the tower there are stairs leading down to the south
+and to the east.
+~
+1056776 0
+D1
+~
+~
+0 0 160
+D2
+~
+~
+0 0 158
+S
+#160
+Forbidden tower~
+You can leave the tower by heading down the stairs.
+~
+1056776 0
+D2
+~
+~
+0 0 161
+D3
+~
+~
+0 0 159
+D5
+~
+~
+0 0 153
+S
+#161
+Inside the forbidden tower~
+Stairs leading down from the tower are to the north and west.
+~
+1056776 0
+D0
+~
+~
+0 0 160
+D3
+~
+~
+0 0 158
+S
+#0
+
+
+
+#MOBPROGS
+#0
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#$

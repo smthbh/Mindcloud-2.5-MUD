@@ -1,0 +1,110 @@
+#AREADATA
+Name        Forest of Doom~
+Builders    None~
+Music       default.mid~
+VNUMs       700 799
+Cvnum       0
+Security    3
+Areabits    0
+End
+
+
+
+#MOBILES
+#777
+gnarled tree ~
+#wA #gG#ynarled #GT#gree#n~
+An old #gG#ynarled #GT#gree#n is here in your pathway.
+~
+Upon closer inspection, you swear the knots seem to make a face.
+~
+17 32776 0
+100 40 6 3
+0 4
+0
+0
+#778
+bramble~
+#yB#gr#ya#gm#yb#gl#ye#gs#n~
+There is some sort of bush here, scratching any unprotected skin.
+~
+You see that the bush has many sharp torns.
+~
+19 0 0
+100 35 8 2
+0 11
+0
+0
+#779
+Creeping vines~
+#WC#wreeping #GV#gi#Gn#ge#Gs#n~
+Some creeping vines are here, coiling on a tree.
+~
+~
+17 32768 0
+102 60 9 3
+0 4
+0
+0
+#780
+A cold shadow~
+#wA #0Sh#Wad#0ow#n~
+You sence an evil presence here.
+~
+~
+1041 32840 0
+104 45 8 3
+0 9
+0
+0
+#781
+Adventurer ~
+#wThe #RA#rdventurer#n ~
+#wThe #RA#rdventurer#n is here seeking new wonders for his queen. 
+~
+Hes brave and shiverious and just a wee bit dumb.
+~
+17 0 0
+114 46 6 3
+1 3
+0
+0
+#782
+no name~
+(no short description)~
+(no long description)
+~
+~
+1 0 0
+5 0 0 0
+0 0
+0
+0
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#0
+
+
+
+#MOBPROGS
+#0
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#$

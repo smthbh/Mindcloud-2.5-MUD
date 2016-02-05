@@ -1,0 +1,1198 @@
+#AREADATA
+Name        Anubis  The Den~
+Builders    Anubis~
+Music       default.mid~
+VNUMs       100471 100743
+Cvnum       0
+Security    3
+Areabits    0
+End
+
+
+
+#MOBILES
+#100471
+panther~
+#0An enraged panther#n~
+#0A mother panther snarls at your intrusion of her home.#n
+~
+~
+3 128 0
+99 0 0 3d3+3 0d0+0
+0
+0
+0 0 2
+S
+#100472
+panther~
+#0An enraged panther#n~
+#0A mother panther snarls at your intrusion of her home.#n
+~
+~
+3 128 0
+100 0 0 3d3+3 0d0+0
+0
+0
+0 0 2
+S
+#100473
+panther~
+#0An enraged panther#n~
+#0A mother panther snarls at your intrusion of her home.#n
+~
+~
+3 128 0
+100 0 0 3d3+3 0d0+0
+0
+0
+0 0 2
+S
+#100474
+panther~
+#0An enraged panther#n~
+#0A mother panther snarls at your intrusion of her home.#n
+~
+~
+3 128 0
+100 0 0 3d3+3 0d0+0
+0
+0
+0 0 2
+S
+#100475
+panther~
+#0An enraged panther#n~
+#0A mother panther snarls at your intrusion of her home.#n
+~
+~
+3 128 0
+100 0 0 3d3+3 0d0+0
+0
+0
+0 0 2
+S
+#100476
+panther~
+#0An enraged panther#n~
+#0A mother panther snarls at your intrusion of her home.#n
+~
+~
+3 128 0
+99 0 0 3d3+3 0d0+0
+0
+0
+0 0 2
+S
+#100477
+panther~
+#0An enraged panther#n~
+#0A mother panther snarls at your intrusion of her home.#n
+~
+~
+3 128 0
+100 0 0 3d3+3 0d0+0
+0
+0
+0 0 2
+S
+#100478
+panther~
+#0An enraged panther#n~
+#0A mother panther snarls at your intrusion of her home.#n
+~
+~
+3 128 0
+99 0 0 3d3+3 0d0+0
+0
+0
+0 0 2
+S
+#100479
+panther~
+#0An enraged panther#n~
+#0A mother panther snarls at your intrusion of her home.#n
+~
+~
+3 128 0
+100 0 0 3d3+3 0d0+0
+0
+0
+0 0 2
+S
+#100480
+panther~
+#0An enraged panther#n~
+#0A mother panther snarls at your intrusion of her home.#n
+~
+~
+3 128 0
+101 0 0 3d3+3 0d0+0
+0
+0
+0 0 2
+S
+#100481
+jaguar~
+#YA protective jaguar#n~
+#YA jaguar arches it's back and snarls intimidatingly at you.#n
+~
+~
+3 128 0
+110 0 0 3d3+3 0d0+0
+0
+0
+0 0 1
+S
+#100482
+jaguar~
+#YA protective jaguar#n~
+#YA jaguar arches it's back and snarls intimidatingly at you.#n
+~
+~
+3 128 0
+110 0 0 3d3+3 0d0+0
+0
+0
+0 0 1
+S
+#100483
+jaguar~
+#YA protective jaguar#n~
+#YA jaguar arches it's back and snarls intimidatingly at you.#n
+~
+~
+3 128 0
+110 0 0 3d3+3 0d0+0
+0
+0
+0 0 1
+S
+#100484
+jaguar~
+#YA protective jaguar#n~
+#YA jaguar arches it's back and snarls intimidatingly at you.#n
+~
+~
+3 128 0
+111 0 0 3d3+3 0d0+0
+0
+0
+0 0 1
+S
+#100485
+jaguar~
+#YA protective jaguar#n~
+#YA jaguar arches it's back and snarls intimidatingly at you.#n
+~
+~
+3 128 0
+110 0 0 3d3+3 0d0+0
+0
+0
+0 0 1
+S
+#100486
+jaguar~
+#YA protective jaguar#n~
+#YA jaguar arches it's back and snarls intimidatingly at you.#n
+~
+~
+3 128 0
+111 0 0 3d3+3 0d0+0
+0
+0
+0 0 1
+S
+#100487
+jaguar~
+#YA protective jaguar#n~
+#YA jaguar arches it's back and snarls intimidatingly at you.#n
+~
+~
+3 128 0
+110 0 0 3d3+3 0d0+0
+0
+0
+0 0 1
+S
+#100488
+jaguar~
+#YA protective jaguar#n~
+#YA jaguar arches it's back and snarls intimidatingly at you.#n
+~
+~
+3 128 0
+110 0 0 3d3+3 0d0+0
+0
+0
+0 0 1
+S
+#100489
+jaguar~
+#YA protective jaguar#n~
+#YA jaguar arches it's back and snarls intimidatingly at you.#n
+~
+~
+3 128 0
+110 0 0 3d3+3 0d0+0
+0
+0
+0 0 1
+S
+#100490
+jaguar~
+#YA protective jaguar#n~
+#YA jaguar arches it's back and snarls intimidatingly at you.#n
+~
+~
+3 128 0
+111 0 0 3d3+3 0d0+0
+0
+0
+0 0 1
+S
+#100491
+lion~
+#yA #lM#LAS#WS#LIV#lE #ylion#n~
+#yA #lM#LAS#WS#LIV#lE #ylion attacks you in a rage!#n
+~
+~
+11 4293308 0
+119 0 0 4d4+3 0d0+0
+0
+0
+0 0 1
+S
+#100492
+lion~
+#yA #lM#LAS#WS#LIV#lE #ylion#n~
+#yA #lM#LAS#WS#LIV#lE #ylion attacks you in a rage!#n
+~
+~
+11 4293308 0
+119 0 0 0d0+0 0d0+0
+0
+0
+0 0 1
+S
+#100493
+lion~
+#yA #lM#LAS#WS#LIV#lE #ylion#n~
+#yA #lM#LAS#WS#LIV#lE #ylion attacks you in a rage!#n
+~
+~
+11 4293308 0
+120 0 0 0d0+0 0d0+0
+0
+0
+0 0 1
+S
+#100494
+lion~
+#yA #lM#LAS#WS#LIV#lE #ylion#n~
+#yA #lM#LAS#WS#LIV#lE #ylion attacks you in a rage!#n
+~
+~
+11 4293308 0
+120 0 0 0d0+0 0d0+0
+0
+0
+0 0 1
+S
+#100495
+lion~
+#yA #lM#LAS#WS#LIV#lE #ylion#n~
+#yA #lM#LAS#WS#LIV#lE #ylion attacks you in a rage!#n
+~
+~
+11 4293308 0
+120 0 0 0d0+0 0d0+0
+0
+0
+0 0 1
+S
+#100496
+lion~
+#yA #lM#LAS#WS#LIV#lE #ylion#n~
+#yA #lM#LAS#WS#LIV#lE #ylion attacks you in a rage!#n
+~
+~
+11 4293308 0
+121 0 0 0d0+0 0d0+0
+0
+0
+0 0 1
+S
+#100497
+lion~
+#yA #lM#LAS#WS#LIV#lE #ylion#n~
+#yA #lM#LAS#WS#LIV#lE #ylion attacks you in a rage!#n
+~
+~
+11 4293308 0
+119 0 0 0d0+0 0d0+0
+0
+0
+0 0 1
+S
+#100498
+lion~
+#yA #lM#LAS#WS#LIV#lE #ylion#n~
+#yA #lM#LAS#WS#LIV#lE #ylion attacks you in a rage!#n
+~
+~
+11 4293308 0
+120 0 0 0d0+0 0d0+0
+0
+0
+0 0 1
+S
+#100499
+lion~
+#yA #lM#LAS#WS#LIV#lE #ylion#n~
+#yA #lM#LAS#WS#LIV#lE #ylion attacks you in a rage!#n
+~
+~
+11 4293308 0
+120 0 0 0d0+0 0d0+0
+0
+0
+0 0 1
+S
+#100500
+lion~
+#yA #lM#LAS#WS#LIV#lE #ylion#n~
+#yA #lM#LAS#WS#LIV#lE #ylion attacks you in a rage!#n
+~
+~
+11 4293308 0
+120 0 0 0d0+0 0d0+0
+0
+0
+0 0 1
+S
+#100501
+tiger~
+#YA #0GI#nG#WA#nNT#0IC #YT#Ri#Yg#Re#Yr#n~
+#YA #0GI#nG#WA#nNT#0IC #YT#Ri#Yg#Re#Yr leaps at you in a mess of claws and fangs.#n
+~
+~
+11 4293308 0
+135 0 0 5d5+3 0d0+0
+0
+0
+0 0 2
+S
+#100502
+tiger~
+#YA #0GI#nG#WA#nNT#0IC #YT#Ri#Yg#Re#Yr#n~
+#YA #0GI#nG#WA#nNT#0IC #YT#Ri#Yg#Re#Yr leaps at you in a mess of claws and fangs.#n
+~
+~
+11 4293308 0
+135 0 0 5d5+3 0d0+0
+0
+0
+0 0 2
+S
+#100503
+tiger~
+#YA #0GI#nG#WA#nNT#0IC #YT#Ri#Yg#Re#Yr#n~
+#YA #0GI#nG#WA#nNT#0IC #YT#Ri#Yg#Re#Yr leaps at you in a mess of claws and fangs.#n
+~
+~
+11 4293308 0
+135 0 0 5d5+3 0d0+0
+0
+0
+0 0 2
+S
+#100504
+tiger~
+#YA #0GI#nG#WA#nNT#0IC #YT#Ri#Yg#Re#Yr#n~
+#YA #0GI#nG#WA#nNT#0IC #YT#Ri#Yg#Re#Yr leaps at you in a mess of claws and fangs.#n
+~
+~
+11 4293308 0
+135 0 0 5d5+3 0d0+0
+0
+0
+0 0 2
+S
+#100505
+tiger~
+#YA #0GI#nG#WA#nNT#0IC #YT#Ri#Yg#Re#Yr#n~
+#YA #0GI#nG#WA#nNT#0IC #YT#Ri#Yg#Re#Yr leaps at you in a mess of claws and fangs.#n
+~
+~
+11 4293308 0
+135 0 0 5d5+3 0d0+0
+0
+0
+0 0 2
+S
+#100506
+tiger~
+#YA #0GI#nG#WA#nNT#0IC #YT#Ri#Yg#Re#Yr#n~
+#YA #0GI#nG#WA#nNT#0IC #YT#Ri#Yg#Re#Yr leaps at you in a mess of claws and fangs.#n
+~
+~
+11 4293308 0
+135 0 0 5d5+3 0d0+0
+0
+0
+0 0 2
+S
+#100507
+tiger~
+#YA #0GI#nG#WA#nNT#0IC #YT#Ri#Yg#Re#Yr#n~
+#YA #0GI#nG#WA#nNT#0IC #YT#Ri#Yg#Re#Yr leaps at you in a mess of claws and fangs.#n
+~
+~
+11 4293308 0
+135 0 0 5d5+3 0d0+0
+0
+0
+0 0 2
+S
+#100508
+tiger~
+#YA #0GI#nG#WA#nNT#0IC #YT#Ri#Yg#Re#Yr#n~
+#YA #0GI#nG#WA#nNT#0IC #YT#Ri#Yg#Re#Yr leaps at you in a mess of claws and fangs.#n
+~
+~
+11 4293308 0
+135 0 0 5d5+3 0d0+0
+0
+0
+0 0 2
+S
+#100509
+tiger~
+#YA #0GI#nG#WA#nNT#0IC #YT#Ri#Yg#Re#Yr#n~
+#YA #0GI#nG#WA#nNT#0IC #YT#Ri#Yg#Re#Yr leaps at you in a mess of claws and fangs.#n
+~
+~
+11 4293308 0
+135 0 0 5d5+3 0d0+0
+0
+0
+0 0 2
+S
+#100510
+tiger~
+#YA #0GI#nG#WA#nNT#0IC #YT#Ri#Yg#Re#Yr#n~
+#YA #0GI#nG#WA#nNT#0IC #YT#Ri#Yg#Re#Yr leaps at you in a mess of claws and fangs.#n
+~
+~
+11 4293308 0
+135 0 0 5d5+3 0d0+0
+0
+0
+0 0 2
+S
+#100511
+cheetah~
+#YA prowling #YC#yh#0e#ye#Yt#ya#0h#n~
+#YA powerful C#yh#0e#ye#Yt#ya#0h #yprowls about the den.#n
+~
+~
+11 4293308 0
+150 0 0 5d5+3 0d0+0
+0
+0
+0 0 1
+S
+#100512
+cheetah~
+#YA prowling C#yh#0e#ye#Yt#ya#0h#n~
+#YA powerful C#yh#0e#ye#Yt#ya#0h #yprowls about the den.#n
+~
+~
+11 4293308 0
+150 0 0 5d5+3 0d0+0
+0
+0
+0 0 1
+S
+#100513
+cheetah~
+#YA prowling C#yh#0e#ye#Yt#ya#0h#n~
+#YA powerful C#yh#0e#ye#Yt#ya#0h #yprowls about the den.#n
+~
+~
+11 4293308 0
+150 0 0 5d5+3 0d0+0
+0
+0
+0 0 1
+S
+#100514
+cheetah~
+#YA prowling C#yh#0e#ye#Yt#ya#0h#n~
+#YA powerful C#yh#0e#ye#Yt#ya#0h #yprowls about the den.#n
+~
+~
+11 4293308 0
+150 0 0 5d5+3 0d0+0
+0
+0
+0 0 1
+S
+#100515
+cheetah~
+#YA prowling C#yh#0e#ye#Yt#ya#0h#n~
+#YA powerful C#yh#0e#ye#Yt#ya#0h #yprowls about the den.#n
+~
+~
+11 4293308 0
+150 0 0 5d5+3 0d0+0
+0
+0
+0 0 1
+S
+#100516
+cheetah~
+#YA prowling C#yh#0e#ye#Yt#ya#0h#n~
+#YA powerful C#yh#0e#ye#Yt#ya#0h #yprowls about the den.#n
+~
+~
+11 4293308 0
+150 0 0 5d5+3 0d0+0
+0
+0
+0 0 1
+S
+#100517
+cheetah~
+#YA prowling C#yh#0e#ye#Yt#ya#0h#n~
+#YA powerful C#yh#0e#ye#Yt#ya#0h #yprowls about the den.#n
+~
+~
+11 4293308 0
+150 0 0 5d5+3 0d0+0
+0
+0
+0 0 1
+S
+#100518
+cheetah~
+#YA prowling C#yh#0e#ye#Yt#ya#0h#n~
+#YA powerful C#yh#0e#ye#Yt#ya#0h #yprowls about the den.#n
+~
+~
+11 4293308 0
+150 0 0 5d5+3 0d0+0
+0
+0
+0 0 1
+S
+#100519
+cheetah~
+#YA prowling C#yh#0e#ye#Yt#ya#0h#n~
+#YA powerful C#yh#0e#ye#Yt#ya#0h #yprowls about the den.#n
+~
+~
+11 4293308 0
+150 0 0 5d5+3 0d0+0
+0
+0
+0 0 1
+S
+#100520
+cheetah~
+#YA prowling C#yh#0e#ye#Yt#ya#0h#n~
+#YA powerful C#yh#0e#ye#Yt#ya#0h #yprowls about the den.#n
+~
+~
+11 4293308 0
+150 0 0 5d5+3 0d0+0
+0
+0
+0 0 1
+S
+#100521
+cheetah~
+#YA prowling C#yh#0e#ye#Yt#ya#0h#n~
+#YA powerful C#yh#0e#ye#Yt#ya#0h #yprowls about the den.#n
+~
+~
+11 4293308 0
+150 0 0 5d5+3 0d0+0
+0
+0
+0 0 1
+S
+#100522
+cheetah~
+#YA prowling C#yh#0e#ye#Yt#ya#0h#n~
+#YA powerful C#yh#0e#ye#Yt#ya#0h #yprowls about the den.#n
+~
+~
+11 4293308 0
+150 0 0 5d5+3 0d0+0
+0
+0
+0 0 1
+S
+#100523
+cheetah~
+#YA prowling C#yh#0e#ye#Yt#ya#0h#n~
+#YA powerful C#yh#0e#ye#Yt#ya#0h #yprowls about the den.#n
+~
+~
+11 4293308 0
+150 0 0 5d5+3 0d0+0
+0
+0
+0 0 1
+S
+#100524
+cheetah~
+#YA prowling C#yh#0e#ye#Yt#ya#0h#n~
+#YA powerful C#yh#0e#ye#Yt#ya#0h #yprowls about the den.#n
+~
+~
+11 4293308 0
+150 0 0 5d5+3 0d0+0
+0
+0
+0 0 1
+S
+#100525
+cheetah~
+#YA prowling C#yh#0e#ye#Yt#ya#0h#n~
+#YA powerful C#yh#0e#ye#Yt#ya#0h #yprowls about the den.#n
+~
+~
+11 4293308 0
+150 0 0 5d5+3 0d0+0
+0
+0
+0 0 1
+S
+#100526
+cheetah~
+#YA prowling C#yh#0e#ye#Yt#ya#0h#n~
+#YA powerful C#yh#0e#ye#Yt#ya#0h #yprowls about the den.#n
+~
+~
+11 4293308 0
+150 0 0 5d5+3 0d0+0
+0
+0
+0 0 1
+S
+#100527
+cheetah~
+#YA prowling C#yh#0e#ye#Yt#ya#0h#n~
+#YA powerful C#yh#0e#ye#Yt#ya#0h #yprowls about the den.#n
+~
+~
+11 4293308 0
+150 0 0 5d5+3 0d0+0
+0
+0
+0 0 1
+S
+#100528
+cheetah~
+#YA prowling C#yh#0e#ye#Yt#ya#0h#n~
+#YA powerful C#yh#0e#ye#Yt#ya#0h #yprowls about the den.#n
+~
+~
+11 4293308 0
+150 0 0 5d5+3 0d0+0
+0
+0
+0 0 1
+S
+#100529
+cheetah~
+#YA prowling C#yh#0e#ye#Yt#ya#0h#n~
+#YA powerful C#yh#0e#ye#Yt#ya#0h #yprowls about the den.#n
+~
+~
+11 4293308 0
+150 0 0 5d5+3 0d0+0
+0
+0
+0 0 1
+S
+#100530
+cheetah~
+#YA prowling C#yh#0e#ye#Yt#ya#0h#n~
+#YA powerful C#yh#0e#ye#Yt#ya#0h #yprowls about the den.#n
+~
+~
+11 4293308 0
+150 0 0 5d5+3 0d0+0
+0
+0
+0 0 1
+S
+#100531
+cheetah~
+#YA prowling C#yh#0e#ye#Yt#ya#0h#n~
+#YA powerful C#yh#0e#ye#Yt#ya#0h #yprowls about the den.#n
+~
+~
+11 4293308 0
+150 0 0 5d5+3 0d0+0
+0
+0
+0 0 1
+S
+#100532
+cheetah~
+#YA prowling C#yh#0e#ye#Yt#ya#0h#n~
+#YA powerful C#yh#0e#ye#Yt#ya#0h #yprowls about the den.#n
+~
+~
+11 4293308 0
+150 0 0 5d5+3 0d0+0
+0
+0
+0 0 1
+S
+#100533
+cheetah~
+#YA prowling C#yh#0e#ye#Yt#ya#0h#n~
+#YA powerful C#yh#0e#ye#Yt#ya#0h #yprowls about the den.#n
+~
+~
+11 4293308 0
+150 0 0 5d5+3 0d0+0
+0
+0
+0 0 1
+S
+#100534
+cheetah~
+#YA prowling C#yh#0e#ye#Yt#ya#0h#n~
+#YA powerful C#yh#0e#ye#Yt#ya#0h #yprowls about the den.#n
+~
+~
+11 4293308 0
+150 0 0 5d5+3 0d0+0
+0
+0
+0 0 1
+S
+#100535
+cheetah~
+#YA prowling C#yh#0e#ye#Yt#ya#0h#n~
+#YA powerful C#yh#0e#ye#Yt#ya#0h #yprowls about the den.#n
+~
+~
+11 4293308 0
+150 0 0 5d5+3 0d0+0
+0
+0
+0 0 1
+S
+#100536
+cheetah~
+#YA prowling C#yh#0e#ye#Yt#ya#0h#n~
+#YA powerful C#yh#0e#ye#Yt#ya#0h #yprowls about the den.#n
+~
+~
+11 4293308 0
+150 0 0 5d5+3 0d0+0
+0
+0
+0 0 1
+S
+#100537
+cheetah~
+#YA prowling C#yh#0e#ye#Yt#ya#0h#n~
+#YA powerful C#yh#0e#ye#Yt#ya#0h #yprowls about the den.#n
+~
+~
+11 4293308 0
+150 0 0 5d5+3 0d0+0
+0
+0
+0 0 1
+S
+#100538
+cheetah~
+#YA prowling C#yh#0e#ye#Yt#ya#0h#n~
+#YA powerful C#yh#0e#ye#Yt#ya#0h #yprowls about the den.#n
+~
+~
+11 4293308 0
+150 0 0 5d5+3 0d0+0
+0
+0
+0 0 1
+S
+#100539
+cheetah~
+#YA prowling C#yh#0e#ye#Yt#ya#0h#n~
+#YA powerful C#yh#0e#ye#Yt#ya#0h #yprowls about the den.#n
+~
+~
+11 4293308 0
+150 0 0 5d5+3 0d0+0
+0
+0
+0 0 1
+S
+#100540
+cheetah~
+#YA prowling C#yh#0e#ye#Yt#ya#0h#n~
+#YA powerful C#yh#0e#ye#Yt#ya#0h #yprowls about the den.#n
+~
+~
+11 4293308 0
+150 0 0 5d5+3 0d0+0
+0
+0
+0 0 1
+S
+#100541
+cheetah~
+#YA prowling C#yh#0e#ye#Yt#ya#0h#n~
+#YA powerful C#yh#0e#ye#Yt#ya#0h #yprowls about the den.#n
+~
+~
+11 4293308 0
+150 0 0 5d5+3 0d0+0
+0
+0
+0 0 1
+S
+#100542
+cheetah~
+#YA prowling C#yh#0e#ye#Yt#ya#0h#n~
+#YA powerful C#yh#0e#ye#Yt#ya#0h #yprowls about the den.#n
+~
+~
+11 4293308 0
+150 0 0 5d5+3 0d0+0
+0
+0
+0 0 1
+S
+#100543
+cheetah~
+#YA prowling C#yh#0e#ye#Yt#ya#0h#n~
+#YA powerful C#yh#0e#ye#Yt#ya#0h #yprowls about the den.#n
+~
+~
+11 4293308 0
+150 0 0 5d5+3 0d0+0
+0
+0
+0 0 1
+S
+#100544
+cheetah~
+#YA prowling C#yh#0e#ye#Yt#ya#0h#n~
+#YA powerful C#yh#0e#ye#Yt#ya#0h #yprowls about the den.#n
+~
+~
+11 4293308 0
+150 0 0 5d5+3 0d0+0
+0
+0
+0 0 1
+S
+#100545
+cheetah~
+#YA prowling C#yh#0e#ye#Yt#ya#0h#n~
+#YA powerful C#yh#0e#ye#Yt#ya#0h #yprowls about the den.#n
+~
+~
+11 4293308 0
+150 0 0 5d5+3 0d0+0
+0
+0
+0 0 1
+S
+#100546
+cheetah~
+#YA prowling C#yh#0e#ye#Yt#ya#0h#n~
+#YA powerful C#yh#0e#ye#Yt#ya#0h #yprowls about the den.#n
+~
+~
+11 4293308 0
+150 0 0 5d5+3 0d0+0
+0
+0
+0 0 1
+S
+#100547
+cheetah~
+#YA prowling C#yh#0e#ye#Yt#ya#0h#n~
+#YA powerful C#yh#0e#ye#Yt#ya#0h #yprowls about the den.#n
+~
+~
+11 4293308 0
+150 0 0 5d5+3 0d0+0
+0
+0
+0 0 1
+S
+#100548
+cheetah~
+#YA prowling C#yh#0e#ye#Yt#ya#0h#n~
+#YA powerful C#yh#0e#ye#Yt#ya#0h #yprowls about the den.#n
+~
+~
+11 4293308 0
+150 0 0 5d5+3 0d0+0
+0
+0
+0 0 1
+S
+#100549
+cheetah~
+#YA prowling C#yh#0e#ye#Yt#ya#0h#n~
+#YA powerful C#yh#0e#ye#Yt#ya#0h #yprowls about the den.#n
+~
+~
+11 4293308 0
+150 0 0 5d5+3 0d0+0
+0
+0
+0 0 1
+S
+#100550
+cheetah~
+#YA prowling C#yh#0e#ye#Yt#ya#0h#n~
+#YA powerful C#yh#0e#ye#Yt#ya#0h #yprowls about the den.#n
+~
+~
+11 4293308 0
+150 0 0 5d5+3 0d0+0
+0
+0
+0 0 1
+S
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#100471
+#LT#nh#Le #nD#Le#nn~
+~
+2 5
+D1
+~
+~
+0 0 100472
+D2
+~
+~
+0 0 100062
+D3
+~
+~
+0 0 100478
+S
+#100472
+#LT#nh#Le #nD#Le#nn~
+~
+2 5
+D2
+~
+~
+0 0 100473
+D3
+~
+~
+0 0 100471
+S
+#100473
+#LT#nh#Le #nD#Le#nn~
+~
+2 5
+D0
+~
+~
+0 0 100472
+D2
+~
+~
+0 0 100474
+D3
+~
+~
+0 0 100062
+S
+#100474
+#LT#nh#Le #nD#Le#nn~
+~
+2 5
+D0
+~
+~
+0 0 100473
+D3
+~
+~
+0 0 100475
+S
+#100475
+#LT#nh#Le #nD#Le#nn~
+~
+2 5
+D0
+~
+~
+0 0 100062
+D1
+~
+~
+0 0 100474
+D3
+~
+~
+0 0 100476
+S
+#100476
+#LT#nh#Le #nD#Le#nn~
+~
+2 5
+D0
+~
+~
+0 0 100477
+D1
+~
+~
+0 0 100475
+S
+#100477
+#LT#nh#Le #nD#Le#nn~
+~
+2 5
+D0
+~
+~
+0 0 100478
+D1
+~
+~
+0 0 100062
+D2
+~
+~
+0 0 100476
+S
+#100478
+#LT#nh#Le #nD#Le#nn~
+~
+2 5
+D1
+~
+~
+0 0 100471
+D2
+~
+~
+0 0 100477
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 100476 1 100471
+M 0 100477 1 100471
+M 0 100478 1 100471
+M 0 100479 1 100471
+M 0 100480 1 100471
+M 0 100516 1 100471
+M 0 100517 1 100471
+M 0 100518 1 100471
+M 0 100519 1 100471
+M 0 100520 1 100471
+M 0 100481 1 100472
+M 0 100482 1 100472
+M 0 100483 1 100472
+M 0 100484 1 100472
+M 0 100485 1 100472
+M 0 100521 1 100472
+M 0 100522 1 100472
+M 0 100523 1 100472
+M 0 100524 1 100472
+M 0 100525 1 100472
+M 0 100486 1 100473
+M 0 100487 1 100473
+M 0 100488 1 100473
+M 0 100489 1 100473
+M 0 100490 1 100473
+M 0 100526 1 100473
+M 0 100527 1 100473
+M 0 100528 1 100473
+M 0 100529 1 100473
+M 0 100530 1 100473
+M 0 100491 1 100474
+M 0 100492 1 100474
+M 0 100493 1 100474
+M 0 100494 1 100474
+M 0 100495 1 100474
+M 0 100531 1 100474
+M 0 100532 1 100474
+M 0 100533 1 100474
+M 0 100534 1 100474
+M 0 100535 1 100474
+M 0 100496 1 100475
+M 0 100497 1 100475
+M 0 100498 1 100475
+M 0 100499 1 100475
+M 0 100500 1 100475
+M 0 100536 1 100475
+M 0 100537 1 100475
+M 0 100538 1 100475
+M 0 100539 1 100475
+M 0 100540 1 100475
+M 0 100501 1 100476
+M 0 100502 1 100476
+M 0 100503 1 100476
+M 0 100504 1 100476
+M 0 100505 1 100476
+M 0 100541 1 100476
+M 0 100542 1 100476
+M 0 100543 1 100476
+M 0 100544 1 100476
+M 0 100545 1 100476
+M 0 100506 1 100477
+M 0 100507 1 100477
+M 0 100508 1 100477
+M 0 100509 1 100477
+M 0 100510 1 100477
+M 0 100546 1 100477
+M 0 100547 1 100477
+M 0 100548 1 100477
+M 0 100549 1 100477
+M 0 100550 1 100477
+M 0 100471 1 100478
+M 0 100472 1 100478
+M 0 100473 1 100478
+M 0 100474 1 100478
+M 0 100475 1 100478
+M 0 100511 1 100478
+M 0 100512 1 100478
+M 0 100513 1 100478
+M 0 100514 1 100478
+M 0 100515 1 100478
+S
+
+
+
+#$
