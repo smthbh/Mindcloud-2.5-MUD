@@ -304,3 +304,12 @@ MSP Ratio                  0 %
 Amount of MB send          442 MB
 Datatransfer Average       0.7
 Datatransfer Peak          14.3
+
+Mudinfo Database Entry
+Average Online Users       0
+Peak Users Online          1
+Mccp Ratio                 0 %
+MSP Ratio                  0 %
+Amount of MB send          2 MB
+Datatransfer Average       0.0
+Datatransfer Peak          1.3

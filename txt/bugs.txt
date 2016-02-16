@@ -188,3 +188,4 @@
 [*****] BUG: Fread_word: word 'ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ' too long.
 [*****] BUG: Fread_word: word 'ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ' too long.
 [*****] BUG: Fread_word: word 'ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ' too long.
+[*****] BUG: Server Rebooted, handling it safely.
